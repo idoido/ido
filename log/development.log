@@ -1,0 +1,1690 @@
+08.06.2010 0:12:30 com.sun.enterprise.v3.server.AppServerStartup run
+INFO: GlassFish v3 (74b) startup time : Embedded(849ms) startup services(361ms) total(1210ms)
+08.06.2010 0:12:32 AppServerStartup run
+INFO: [Thread[GlassFish Kernel Main Thread,5,main]] started
+08.06.2010 0:12:32 org.hibernate.validator.util.Version <clinit>
+INFO: Hibernate Validator null
+08.06.2010 0:12:33 com.sun.enterprise.v3.services.impl.GrizzlyProxy$2$1 onReady
+INFO: Grizzly Framework 1.9.18-k started in: 462ms listening on port 3001
+08.06.2010 0:12:33 org.glassfish.kernel.config.DefaultConfigParser$2 run
+INFO: interface org.glassfish.scripting.jruby.config.JrubyContainer
+08.06.2010 0:12:33 org.glassfish.scripting.jruby.JRubyConfigImpl <init>
+INFO: Running IdoWeb in development environment.
+08.06.2010 0:12:33 org.glassfish.scripting.jruby.RackApplicationChooser detectRails
+INFO: Rails application detected.
+08.06.2010 0:12:33 org.glassfish.scripting.jruby.JRubyApplication <init>
+INFO: Loading application IdoWeb at /
+08.06.2010 0:12:33 com.sun.grizzly.jruby.RackGrizzlyAdapter <init>
+INFO: JRuby version is: 1.4.0
+08.06.2010 0:12:53 com.sun.enterprise.v3.server.AppServerStartup run
+INFO: GlassFish v3 (74b) startup time : Embedded(857ms) startup services(250ms) total(1107ms)
+08.06.2010 0:12:53 AppServerStartup run
+INFO: [Thread[GlassFish Kernel Main Thread,5,main]] started
+08.06.2010 0:12:53 org.hibernate.validator.util.Version <clinit>
+INFO: Hibernate Validator null
+08.06.2010 0:12:53 com.sun.enterprise.v3.services.impl.GrizzlyProxy$2$1 onReady
+INFO: Grizzly Framework 1.9.18-k started in: 317ms listening on port 3001
+08.06.2010 0:12:53 org.glassfish.kernel.config.DefaultConfigParser$2 run
+INFO: interface org.glassfish.scripting.jruby.config.JrubyContainer
+08.06.2010 0:12:53 org.glassfish.scripting.jruby.JRubyConfigImpl <init>
+INFO: Running IdoWeb in development environment.
+08.06.2010 0:12:53 org.glassfish.scripting.jruby.RackApplicationChooser detectRails
+INFO: Rails application detected.
+08.06.2010 0:12:53 org.glassfish.scripting.jruby.JRubyApplication <init>
+INFO: Loading application IdoWeb at /
+08.06.2010 0:12:54 com.sun.grizzly.jruby.RackGrizzlyAdapter <init>
+INFO: JRuby version is: 1.4.0
+08.06.2010 0:13:00 com.sun.grizzly.jruby.rack.RackApplicationPoolFactory newApplication
+INFO: New instance of rails created in 6 245 milliseconds
+08.06.2010 0:13:00 com.sun.grizzly.scripting.pool.DynamicPool logDynamicStatus
+INFO: Pool started without dynamic resizing enabled. Pool will not attempt to determine the upper and lower bounds that it should be using, and will stay at 1
+08.06.2010 0:13:24 com.sun.enterprise.v3.server.AppServerStartup run
+INFO: GlassFish v3 (74b) startup time : Embedded(658ms) startup services(180ms) total(838ms)
+08.06.2010 0:13:24 AppServerStartup run
+INFO: [Thread[GlassFish Kernel Main Thread,5,main]] started
+08.06.2010 0:13:24 org.hibernate.validator.util.Version <clinit>
+INFO: Hibernate Validator null
+08.06.2010 0:13:25 com.sun.enterprise.v3.services.impl.GrizzlyProxy$2$1 onReady
+INFO: Grizzly Framework 1.9.18-k started in: 332ms listening on port 3000
+08.06.2010 0:13:25 org.glassfish.kernel.config.DefaultConfigParser$2 run
+INFO: interface org.glassfish.scripting.jruby.config.JrubyContainer
+08.06.2010 0:13:25 org.glassfish.scripting.jruby.JRubyConfigImpl <init>
+INFO: Running IdoWeb in development environment.
+08.06.2010 0:13:25 org.glassfish.scripting.jruby.RackApplicationChooser detectRails
+INFO: Rails application detected.
+08.06.2010 0:13:25 org.glassfish.scripting.jruby.JRubyApplication <init>
+INFO: Loading application IdoWeb at /
+08.06.2010 0:13:25 com.sun.grizzly.jruby.RackGrizzlyAdapter <init>
+INFO: JRuby version is: 1.4.0
+08.06.2010 0:13:28 com.sun.grizzly.jruby.rack.RackApplicationPoolFactory newApplication
+INFO: New instance of rails created in 3 198 milliseconds
+08.06.2010 0:13:28 com.sun.grizzly.scripting.pool.DynamicPool logDynamicStatus
+INFO: Pool started without dynamic resizing enabled. Pool will not attempt to determine the upper and lower bounds that it should be using, and will stay at 1
+08.06.2010 0:14:41 sun.reflect.NativeMethodAccessorImpl invoke0
+INFO: 
+
+Processing IdoWebController#Input (for 127.0.0.1 at 2010-06-08 00:14:41) [GET]
+
+08.06.2010 0:14:41 sun.reflect.NativeMethodAccessorImpl invoke0
+INFO:   Parameters: {"asdf"=>"asdf123"}
+
+08.06.2010 0:14:41 sun.reflect.NativeMethodAccessorImpl invoke0
+INFO: Rendering ido_web/Input
+
+08.06.2010 0:14:41 sun.reflect.NativeMethodAccessorImpl invoke0
+INFO: Completed in 235ms (View: 225 | 200 OK [http://localhost/?asdf=asdf123]
+
+08.06.2010 0:27:08 sun.reflect.NativeMethodAccessorImpl invoke0
+INFO: 
+
+Processing IdoWebController#Input (for 127.0.0.1 at 2010-06-08 00:27:08) [GET]
+
+08.06.2010 0:27:08 sun.reflect.NativeMethodAccessorImpl invoke0
+INFO:   Parameters: {"asdf"=>"asdf123"}
+
+08.06.2010 0:27:08 sun.reflect.NativeMethodAccessorImpl invoke0
+INFO: Rendering ido_web/Input
+
+08.06.2010 0:27:08 sun.reflect.NativeMethodAccessorImpl invoke0
+INFO: 
+ActionView::TemplateError (undefined local variable or method `close_form_tag' for #<ActionView::Base:0x18af9c0>) on line #5 of app/views/ido_web/Input.html.erb:
+2: 
+3: <%= form_tag :action => "Output", :ENCTYPE => "Multipart", :method => "Post" %>
+4: Filename: <input type="file" name="source" />
+5: <%= close_form_tag %>
+
+    app/views/ido_web/Input.html.erb:5
+    :1
+
+
+08.06.2010 0:27:08 sun.reflect.NativeMethodAccessorImpl invoke0
+INFO: Rendered rescues/_trace (171.0ms)
+
+08.06.2010 0:27:09 sun.reflect.NativeMethodAccessorImpl invoke0
+INFO: Rendered rescues/_request_and_response (39.0ms)
+
+08.06.2010 0:27:09 sun.reflect.NativeMethodAccessorImpl invoke0
+INFO: Rendering rescues/layout (internal_server_error)
+
+08.06.2010 0:27:38 sun.reflect.NativeMethodAccessorImpl invoke0
+INFO: 
+
+Processing IdoWebController#Input (for 127.0.0.1 at 2010-06-08 00:27:37) [GET]
+
+08.06.2010 0:27:38 sun.reflect.NativeMethodAccessorImpl invoke0
+INFO:   Parameters: {"asdf"=>"asdf123"}
+
+08.06.2010 0:27:38 sun.reflect.NativeMethodAccessorImpl invoke0
+INFO: Rendering ido_web/Input
+
+08.06.2010 0:27:38 sun.reflect.NativeMethodAccessorImpl invoke0
+INFO: 
+ActionView::TemplateError (undefined local variable or method `end_form_tag' for #<ActionView::Base:0xeced18>) on line #5 of app/views/ido_web/Input.html.erb:
+2: 
+3: <%= form_tag :action => "Output", :ENCTYPE => "Multipart", :method => "Post" %>
+4: Filename: <input type="file" name="source" />
+5: <%= end_form_tag %>
+
+    app/views/ido_web/Input.html.erb:5
+    :1
+
+
+08.06.2010 0:27:38 sun.reflect.NativeMethodAccessorImpl invoke0
+INFO: Rendered rescues/_trace (77.0ms)
+
+08.06.2010 0:27:38 sun.reflect.GeneratedMethodAccessor2 invoke
+INFO: Rendered rescues/_request_and_response (3.0ms)
+
+08.06.2010 0:27:38 sun.reflect.GeneratedMethodAccessor2 invoke
+INFO: Rendering rescues/layout (internal_server_error)
+
+08.06.2010 0:28:20 sun.reflect.GeneratedMethodAccessor2 invoke
+INFO: 
+
+Processing IdoWebController#Input (for 127.0.0.1 at 2010-06-08 00:28:20) [GET]
+
+08.06.2010 0:28:20 sun.reflect.GeneratedMethodAccessor2 invoke
+INFO:   Parameters: {"asdf"=>"asdf123"}
+
+08.06.2010 0:28:20 sun.reflect.GeneratedMethodAccessor2 invoke
+INFO: Rendering ido_web/Input
+
+08.06.2010 0:28:20 sun.reflect.GeneratedMethodAccessor2 invoke
+INFO: 
+ActionView::TemplateError (undefined local variable or method `end_form_tag' for #<ActionView::Base:0x1171e30>) on line #6 of app/views/ido_web/Input.html.erb:
+3: <%= form_tag :action => "Output", :ENCTYPE => "Multipart", :method => "Post" %>
+4: Filename: <input type="file" name="source" />
+5: <%= submit_tag %>
+6: <%= end_form_tag %>
+
+    app/views/ido_web/Input.html.erb:6
+    :1
+
+
+08.06.2010 0:28:20 sun.reflect.GeneratedMethodAccessor2 invoke
+INFO: Rendered rescues/_trace (58.0ms)
+
+08.06.2010 0:28:20 sun.reflect.GeneratedMethodAccessor2 invoke
+INFO: Rendered rescues/_request_and_response (7.0ms)
+
+08.06.2010 0:28:20 sun.reflect.GeneratedMethodAccessor2 invoke
+INFO: Rendering rescues/layout (internal_server_error)
+
+08.06.2010 0:28:51 sun.reflect.GeneratedMethodAccessor2 invoke
+INFO: 
+
+Processing IdoWebController#Input (for 127.0.0.1 at 2010-06-08 00:28:51) [GET]
+
+08.06.2010 0:28:51 sun.reflect.GeneratedMethodAccessor2 invoke
+INFO:   Parameters: {"asdf"=>"asdf123"}
+
+08.06.2010 0:28:51 sun.reflect.GeneratedMethodAccessor2 invoke
+INFO: Rendering ido_web/Input
+
+08.06.2010 0:28:51 sun.reflect.GeneratedMethodAccessor2 invoke
+INFO: 
+ActionView::TemplateError (undefined local variable or method `end_form_tag' for #<ActionView::Base:0x9bb457>) on line #6 of app/views/ido_web/Input.html.erb:
+3: <%= form_tag :action => "Output", :ENCTYPE => "Multipart", :method => "Post" %>
+4: Filename: <input type="file" name="source" />
+5: <%= submit_tag %>
+6: <%= end_form_tag %>
+
+    app/views/ido_web/Input.html.erb:6
+    :1
+
+
+08.06.2010 0:28:51 sun.reflect.GeneratedMethodAccessor2 invoke
+INFO: Rendered rescues/_trace (60.0ms)
+
+08.06.2010 0:28:51 sun.reflect.GeneratedMethodAccessor2 invoke
+INFO: Rendered rescues/_request_and_response (2.0ms)
+
+08.06.2010 0:28:51 sun.reflect.GeneratedMethodAccessor2 invoke
+INFO: Rendering rescues/layout (internal_server_error)
+
+08.06.2010 0:29:23 sun.reflect.GeneratedMethodAccessor2 invoke
+INFO: 
+
+Processing IdoWebController#Input (for 127.0.0.1 at 2010-06-08 00:29:23) [GET]
+
+08.06.2010 0:29:23 sun.reflect.GeneratedMethodAccessor2 invoke
+INFO:   Parameters: {"asdf"=>"asdf123"}
+
+08.06.2010 0:29:23 sun.reflect.GeneratedMethodAccessor2 invoke
+INFO: Rendering ido_web/Input
+
+08.06.2010 0:29:23 sun.reflect.GeneratedMethodAccessor2 invoke
+INFO: Completed in 27ms (View: 23 | 200 OK [http://localhost/?asdf=asdf123]
+
+08.06.2010 0:30:52 sun.reflect.GeneratedMethodAccessor2 invoke
+INFO: 
+
+Processing IdoWebController#Input (for 127.0.0.1 at 2010-06-08 00:30:52) [GET]
+
+08.06.2010 0:30:52 sun.reflect.GeneratedMethodAccessor2 invoke
+INFO:   Parameters: {"asdf"=>"asdf123"}
+
+08.06.2010 0:30:52 sun.reflect.GeneratedMethodAccessor2 invoke
+INFO: Rendering ido_web/Input
+
+08.06.2010 0:30:52 sun.reflect.GeneratedMethodAccessor2 invoke
+INFO: 
+ActionView::TemplateError (undefined local variable or method `end_form_tag' for #<ActionView::Base:0x1abfd68>) on line #6 of app/views/ido_web/Input.html.erb:
+3: <%= form_tag :action => "Output", :ENCTYPE => "Multipart", :method => "Post" %>
+4: Filename: <input type="file" name="source" />
+5: <%= submit_tag %>
+6: <%= end_form_tag  %>
+
+    app/views/ido_web/Input.html.erb:6
+    :1
+
+
+08.06.2010 0:30:52 sun.reflect.GeneratedMethodAccessor2 invoke
+INFO: Rendered rescues/_trace (49.0ms)
+
+08.06.2010 0:30:52 sun.reflect.GeneratedMethodAccessor2 invoke
+INFO: Rendered rescues/_request_and_response (5.0ms)
+
+08.06.2010 0:30:52 sun.reflect.GeneratedMethodAccessor2 invoke
+INFO: Rendering rescues/layout (internal_server_error)
+
+08.06.2010 0:31:30 sun.reflect.GeneratedMethodAccessor2 invoke
+INFO: 
+
+Processing IdoWebController#Input (for 127.0.0.1 at 2010-06-08 00:31:30) [GET]
+
+08.06.2010 0:31:30 sun.reflect.GeneratedMethodAccessor2 invoke
+INFO:   Parameters: {"asdf"=>"asdf123"}
+
+08.06.2010 0:31:30 sun.reflect.GeneratedMethodAccessor2 invoke
+INFO: Rendering ido_web/Input
+
+08.06.2010 0:31:30 sun.reflect.GeneratedMethodAccessor2 invoke
+INFO: ERROR: compiling _run_erb_app47views47ido_web47Input46html46erb RAISED C:/Users/admin/Documents/NetBeansProjects/IdoWeb/app/views/ido_web/Input.html.erb:6: , unexpected kEND
+
+; @output_buffer.concat(( end  ).to_s); @output_buffer.concat "\n"
+                             ^
+
+08.06.2010 0:31:30 sun.reflect.GeneratedMethodAccessor2 invoke
+INFO: Function body:           def _run_erb_app47views47ido_web47Input46html46erb(local_assigns)
+            old_output_buffer = output_buffer;;@output_buffer = '';  __in_erb_template=true ; @output_buffer.concat "<h1> Select input txt file </h1>\n\n"
+
+; @output_buffer.concat(( form_tag :action => "Output", :ENCTYPE => "Multipart", :method => "Post" ).to_s); @output_buffer.concat "\nFilename: <input type=\"file\" name=\"source\" />\n"
+
+; @output_buffer.concat(( submit_tag ).to_s); @output_buffer.concat "\n"
+; @output_buffer.concat(( end  ).to_s); @output_buffer.concat "\n"
+; @output_buffer
+          ensure
+            self.output_buffer = old_output_buffer
+          end
+
+08.06.2010 0:31:30 sun.reflect.GeneratedMethodAccessor2 invoke
+INFO: Backtrace: C:/Program Files/NetBeans 6.8/ruby2/jruby-1.4.0/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_view/renderable.rb:77:in `module_eval'
+C:/Program Files/NetBeans 6.8/ruby2/jruby-1.4.0/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_view/renderable.rb:77:in `compile!'
+C:/Program Files/NetBeans 6.8/ruby2/jruby-1.4.0/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_view/renderable.rb:61:in `compile'
+C:/Program Files/NetBeans 6.8/ruby2/jruby-1.4.0/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_view/renderable.rb:28:in `render'
+C:/Program Files/NetBeans 6.8/ruby2/jruby-1.4.0/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_view/template.rb:199:in `render_template'
+C:/Program Files/NetBeans 6.8/ruby2/jruby-1.4.0/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_view/base.rb:260:in `render'
+C:/Program Files/NetBeans 6.8/ruby2/jruby-1.4.0/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/base.rb:1250:in `render_for_file'
+C:/Program Files/NetBeans 6.8/ruby2/jruby-1.4.0/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/base.rb:945:in `render'
+C:/Program Files/NetBeans 6.8/ruby2/jruby-1.4.0/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/benchmarking.rb:51:in `render_with_benchmark'
+C:/Program Files/NetBeans 6.8/ruby2/jruby-1.4.0/lib/ruby/gems/1.8/gems/activesupport-2.3.4/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+C:/Program Files/NetBeans 6.8/ruby2/jruby-1.4.0/lib/ruby/1.8/benchmark.rb:308:in `realtime'
+C:/Program Files/NetBeans 6.8/ruby2/jruby-1.4.0/lib/ruby/gems/1.8/gems/activesupport-2.3.4/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+C:/Program Files/NetBeans 6.8/ruby2/jruby-1.4.0/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/benchmarking.rb:51:in `render_with_benchmark'
+C:/Program Files/NetBeans 6.8/ruby2/jruby-1.4.0/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/base.rb:1326:in `default_render'
+C:/Program Files/NetBeans 6.8/ruby2/jruby-1.4.0/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/base.rb:1332:in `perform_action'
+C:/Program Files/NetBeans 6.8/ruby2/jruby-1.4.0/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/filters.rb:617:in `call_filters'
+C:/Program Files/NetBeans 6.8/ruby2/jruby-1.4.0/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/filters.rb:610:in `perform_action_with_filters'
+C:/Program Files/NetBeans 6.8/ruby2/jruby-1.4.0/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/benchmarking.rb:68:in `perform_action_with_benchmark'
+C:/Program Files/NetBeans 6.8/ruby2/jruby-1.4.0/lib/ruby/gems/1.8/gems/activesupport-2.3.4/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+C:/Program Files/NetBeans 6.8/ruby2/jruby-1.4.0/lib/ruby/1.8/benchmark.rb:308:in `realtime'
+C:/Program Files/NetBeans 6.8/ruby2/jruby-1.4.0/lib/ruby/gems/1.8/gems/activesupport-2.3.4/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+C:/Program Files/NetBeans 6.8/ruby2/jruby-1.4.0/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/benchmarking.rb:68:in `perform_action_with_benchmark'
+C:/Program Files/NetBeans 6.8/ruby2/jruby-1.4.0/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/rescue.rb:160:in `perform_action_with_rescue'
+C:/Program Files/NetBeans 6.8/ruby2/jruby-1.4.0/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/flash.rb:146:in `perform_action_with_flash'
+C:/Program Files/NetBeans 6.8/ruby2/jruby-1.4.0/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/base.rb:532:in `process'
+C:/Program Files/NetBeans 6.8/ruby2/jruby-1.4.0/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/filters.rb:606:in `process_with_filters'
+C:/Program Files/NetBeans 6.8/ruby2/jruby-1.4.0/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/base.rb:391:in `process'
+C:/Program Files/NetBeans 6.8/ruby2/jruby-1.4.0/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/base.rb:386:in `call'
+C:/Program Files/NetBeans 6.8/ruby2/jruby-1.4.0/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/routing/route_set.rb:437:in `call'
+C:/Program Files/NetBeans 6.8/ruby2/jruby-1.4.0/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/dispatcher.rb:87:in `dispatch'
+C:/Program Files/NetBeans 6.8/ruby2/jruby-1.4.0/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/dispatcher.rb:121:in `_call'
+C:/Program Files/NetBeans 6.8/ruby2/jruby-1.4.0/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/dispatcher.rb:130:in `build_middleware_stack'
+C:/Program Files/NetBeans 6.8/ruby2/jruby-1.4.0/lib/ruby/gems/1.8/gems/rack-1.0.0/lib/rack/head.rb:9:in `call'
+C:/Program Files/NetBeans 6.8/ruby2/jruby-1.4.0/lib/ruby/gems/1.8/gems/rack-1.0.0/lib/rack/head.rb:9:in `call'
+C:/Program Files/NetBeans 6.8/ruby2/jruby-1.4.0/lib/ruby/gems/1.8/gems/rack-1.0.0/lib/rack/methodoverride.rb:24:in `call'
+C:/Program Files/NetBeans 6.8/ruby2/jruby-1.4.0/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/params_parser.rb:15:in `call'
+C:/Program Files/NetBeans 6.8/ruby2/jruby-1.4.0/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/session/cookie_store.rb:93:in `call'
+C:/Program Files/NetBeans 6.8/ruby2/jruby-1.4.0/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/failsafe.rb:26:in `call'
+C:/Program Files/NetBeans 6.8/ruby2/jruby-1.4.0/lib/ruby/gems/1.8/gems/rack-1.0.0/lib/rack/lock.rb:11:in `call'
+C:/Program Files/NetBeans 6.8/ruby2/jruby-1.4.0/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/dispatcher.rb:114:in `call'
+C:/Program Files/NetBeans 6.8/ruby2/jruby-1.4.0/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/reloader.rb:34:in `run'
+C:/Program Files/NetBeans 6.8/ruby2/jruby-1.4.0/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/dispatcher.rb:108:in `call'
+C:/Program Files/NetBeans 6.8/ruby2/jruby-1.4.0/lib/ruby/gems/1.8/gems/glassfish-1.0.2-universal-java/lib/rack/adapter/rails.rb:133:in `call'
+C:/Program Files/NetBeans 6.8/ruby2/jruby-1.4.0/lib/ruby/gems/1.8/gems/glassfish-1.0.2-universal-java/lib/rack/handler/grizzly.rb:55:in `call'
+:1
+
+08.06.2010 0:31:30 sun.reflect.GeneratedMethodAccessor2 invoke
+INFO: 
+ActionView::TemplateError (C:/Users/admin/Documents/NetBeansProjects/IdoWeb/app/views/ido_web/Input.html.erb:6: , unexpected kEND
+
+; @output_buffer.concat(( end  ).to_s); @output_buffer.concat "\n"
+                             ^) on line #6 of app/views/ido_web/Input.html.erb:
+3: <%= form_tag :action => "Output", :ENCTYPE => "Multipart", :method => "Post" %>
+4: Filename: <input type="file" name="source" />
+5: <%= submit_tag %>
+6: <%= end  %>
+
+    :1
+
+
+08.06.2010 0:31:30 sun.reflect.GeneratedMethodAccessor2 invoke
+INFO: Rendered rescues/_trace (37.0ms)
+
+08.06.2010 0:31:30 sun.reflect.GeneratedMethodAccessor2 invoke
+INFO: Rendered rescues/_request_and_response (10.0ms)
+
+08.06.2010 0:31:30 sun.reflect.GeneratedMethodAccessor2 invoke
+INFO: Rendering rescues/layout (internal_server_error)
+
+08.06.2010 0:31:56 sun.reflect.GeneratedMethodAccessor2 invoke
+INFO: 
+
+Processing IdoWebController#Input (for 127.0.0.1 at 2010-06-08 00:31:56) [GET]
+
+08.06.2010 0:31:56 sun.reflect.GeneratedMethodAccessor2 invoke
+INFO:   Parameters: {"asdf"=>"asdf123"}
+
+08.06.2010 0:31:56 sun.reflect.GeneratedMethodAccessor2 invoke
+INFO: Rendering ido_web/Input
+
+08.06.2010 0:31:56 sun.reflect.GeneratedMethodAccessor2 invoke
+INFO: ERROR: compiling _run_erb_app47views47ido_web47Input46html46erb RAISED C:/Users/admin/Documents/NetBeansProjects/IdoWeb/app/views/ido_web/Input.html.erb:8: , unexpected kENSURE
+
+          ensure
+^
+
+08.06.2010 0:31:56 sun.reflect.GeneratedMethodAccessor2 invoke
+INFO: Function body:           def _run_erb_app47views47ido_web47Input46html46erb(local_assigns)
+            old_output_buffer = output_buffer;;@output_buffer = '';  __in_erb_template=true ; @output_buffer.concat "<h1> Select input txt file </h1>\n\n"
+
+;  form_tag :action => "Output", :ENCTYPE => "Multipart", :method => "Post" ; @output_buffer.concat "\nFilename: <input type=\"file\" name=\"source\" />\n"
+
+; @output_buffer.concat(( submit_tag ).to_s); @output_buffer.concat "\n"
+;  end  ; @output_buffer.concat "\n"
+; @output_buffer
+          ensure
+            self.output_buffer = old_output_buffer
+          end
+
+08.06.2010 0:31:56 sun.reflect.GeneratedMethodAccessor2 invoke
+INFO: Backtrace: C:/Program Files/NetBeans 6.8/ruby2/jruby-1.4.0/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_view/renderable.rb:77:in `module_eval'
+C:/Program Files/NetBeans 6.8/ruby2/jruby-1.4.0/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_view/renderable.rb:77:in `compile!'
+C:/Program Files/NetBeans 6.8/ruby2/jruby-1.4.0/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_view/renderable.rb:61:in `compile'
+C:/Program Files/NetBeans 6.8/ruby2/jruby-1.4.0/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_view/renderable.rb:28:in `render'
+C:/Program Files/NetBeans 6.8/ruby2/jruby-1.4.0/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_view/template.rb:199:in `render_template'
+C:/Program Files/NetBeans 6.8/ruby2/jruby-1.4.0/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_view/base.rb:260:in `render'
+C:/Program Files/NetBeans 6.8/ruby2/jruby-1.4.0/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/base.rb:1250:in `render_for_file'
+C:/Program Files/NetBeans 6.8/ruby2/jruby-1.4.0/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/base.rb:945:in `render'
+C:/Program Files/NetBeans 6.8/ruby2/jruby-1.4.0/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/benchmarking.rb:51:in `render_with_benchmark'
+C:/Program Files/NetBeans 6.8/ruby2/jruby-1.4.0/lib/ruby/gems/1.8/gems/activesupport-2.3.4/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+C:/Program Files/NetBeans 6.8/ruby2/jruby-1.4.0/lib/ruby/1.8/benchmark.rb:308:in `realtime'
+C:/Program Files/NetBeans 6.8/ruby2/jruby-1.4.0/lib/ruby/gems/1.8/gems/activesupport-2.3.4/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+C:/Program Files/NetBeans 6.8/ruby2/jruby-1.4.0/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/benchmarking.rb:51:in `render_with_benchmark'
+C:/Program Files/NetBeans 6.8/ruby2/jruby-1.4.0/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/base.rb:1326:in `default_render'
+C:/Program Files/NetBeans 6.8/ruby2/jruby-1.4.0/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/base.rb:1332:in `perform_action'
+C:/Program Files/NetBeans 6.8/ruby2/jruby-1.4.0/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/filters.rb:617:in `call_filters'
+C:/Program Files/NetBeans 6.8/ruby2/jruby-1.4.0/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/filters.rb:610:in `perform_action_with_filters'
+C:/Program Files/NetBeans 6.8/ruby2/jruby-1.4.0/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/benchmarking.rb:68:in `perform_action_with_benchmark'
+C:/Program Files/NetBeans 6.8/ruby2/jruby-1.4.0/lib/ruby/gems/1.8/gems/activesupport-2.3.4/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+C:/Program Files/NetBeans 6.8/ruby2/jruby-1.4.0/lib/ruby/1.8/benchmark.rb:308:in `realtime'
+C:/Program Files/NetBeans 6.8/ruby2/jruby-1.4.0/lib/ruby/gems/1.8/gems/activesupport-2.3.4/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+C:/Program Files/NetBeans 6.8/ruby2/jruby-1.4.0/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/benchmarking.rb:68:in `perform_action_with_benchmark'
+C:/Program Files/NetBeans 6.8/ruby2/jruby-1.4.0/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/rescue.rb:160:in `perform_action_with_rescue'
+C:/Program Files/NetBeans 6.8/ruby2/jruby-1.4.0/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/flash.rb:146:in `perform_action_with_flash'
+C:/Program Files/NetBeans 6.8/ruby2/jruby-1.4.0/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/base.rb:532:in `process'
+C:/Program Files/NetBeans 6.8/ruby2/jruby-1.4.0/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/filters.rb:606:in `process_with_filters'
+C:/Program Files/NetBeans 6.8/ruby2/jruby-1.4.0/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/base.rb:391:in `process'
+C:/Program Files/NetBeans 6.8/ruby2/jruby-1.4.0/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/base.rb:386:in `call'
+C:/Program Files/NetBeans 6.8/ruby2/jruby-1.4.0/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/routing/route_set.rb:437:in `call'
+C:/Program Files/NetBeans 6.8/ruby2/jruby-1.4.0/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/dispatcher.rb:87:in `dispatch'
+C:/Program Files/NetBeans 6.8/ruby2/jruby-1.4.0/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/dispatcher.rb:121:in `_call'
+C:/Program Files/NetBeans 6.8/ruby2/jruby-1.4.0/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/dispatcher.rb:130:in `build_middleware_stack'
+C:/Program Files/NetBeans 6.8/ruby2/jruby-1.4.0/lib/ruby/gems/1.8/gems/rack-1.0.0/lib/rack/head.rb:9:in `call'
+C:/Program Files/NetBeans 6.8/ruby2/jruby-1.4.0/lib/ruby/gems/1.8/gems/rack-1.0.0/lib/rack/head.rb:9:in `call'
+C:/Program Files/NetBeans 6.8/ruby2/jruby-1.4.0/lib/ruby/gems/1.8/gems/rack-1.0.0/lib/rack/methodoverride.rb:24:in `call'
+C:/Program Files/NetBeans 6.8/ruby2/jruby-1.4.0/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/params_parser.rb:15:in `call'
+C:/Program Files/NetBeans 6.8/ruby2/jruby-1.4.0/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/session/cookie_store.rb:93:in `call'
+C:/Program Files/NetBeans 6.8/ruby2/jruby-1.4.0/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/failsafe.rb:26:in `call'
+C:/Program Files/NetBeans 6.8/ruby2/jruby-1.4.0/lib/ruby/gems/1.8/gems/rack-1.0.0/lib/rack/lock.rb:11:in `call'
+C:/Program Files/NetBeans 6.8/ruby2/jruby-1.4.0/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/dispatcher.rb:114:in `call'
+C:/Program Files/NetBeans 6.8/ruby2/jruby-1.4.0/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/reloader.rb:34:in `run'
+C:/Program Files/NetBeans 6.8/ruby2/jruby-1.4.0/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/dispatcher.rb:108:in `call'
+C:/Program Files/NetBeans 6.8/ruby2/jruby-1.4.0/lib/ruby/gems/1.8/gems/glassfish-1.0.2-universal-java/lib/rack/adapter/rails.rb:133:in `call'
+C:/Program Files/NetBeans 6.8/ruby2/jruby-1.4.0/lib/ruby/gems/1.8/gems/glassfish-1.0.2-universal-java/lib/rack/handler/grizzly.rb:55:in `call'
+:1
+
+08.06.2010 0:31:56 sun.reflect.GeneratedMethodAccessor2 invoke
+INFO: 
+ActionView::TemplateError (C:/Users/admin/Documents/NetBeansProjects/IdoWeb/app/views/ido_web/Input.html.erb:8: , unexpected kENSURE
+
+          ensure
+^) on line #8 of app/views/ido_web/Input.html.erb:
+5: <%= submit_tag %>
+6: <% end  %>
+
+    :1
+
+
+08.06.2010 0:31:56 sun.reflect.GeneratedMethodAccessor2 invoke
+INFO: Rendered rescues/_trace (38.0ms)
+
+08.06.2010 0:31:56 sun.reflect.GeneratedMethodAccessor2 invoke
+INFO: Rendered rescues/_request_and_response (9.0ms)
+
+08.06.2010 0:31:56 sun.reflect.GeneratedMethodAccessor2 invoke
+INFO: Rendering rescues/layout (internal_server_error)
+
+08.06.2010 0:32:08 sun.reflect.GeneratedMethodAccessor2 invoke
+INFO: 
+
+Processing IdoWebController#Input (for 127.0.0.1 at 2010-06-08 00:32:08) [GET]
+
+08.06.2010 0:32:08 sun.reflect.GeneratedMethodAccessor2 invoke
+INFO:   Parameters: {"asdf"=>"asdf123"}
+
+08.06.2010 0:32:08 sun.reflect.GeneratedMethodAccessor2 invoke
+INFO: Rendering ido_web/Input
+
+08.06.2010 0:32:08 sun.reflect.GeneratedMethodAccessor2 invoke
+INFO: ERROR: compiling _run_erb_app47views47ido_web47Input46html46erb RAISED C:/Users/admin/Documents/NetBeansProjects/IdoWeb/app/views/ido_web/Input.html.erb:8: , unexpected kENSURE
+
+          ensure
+^
+
+08.06.2010 0:32:08 sun.reflect.GeneratedMethodAccessor2 invoke
+INFO: Function body:           def _run_erb_app47views47ido_web47Input46html46erb(local_assigns)
+            old_output_buffer = output_buffer;;@output_buffer = '';  __in_erb_template=true ; @output_buffer.concat "<h1> Select input txt file </h1>\n\n"
+
+; @output_buffer.concat(( form_tag :action => "Output", :ENCTYPE => "Multipart", :method => "Post" ).to_s); @output_buffer.concat "\nFilename: <input type=\"file\" name=\"source\" />\n"
+
+; @output_buffer.concat(( submit_tag ).to_s); @output_buffer.concat "\n"
+;  end  ; @output_buffer.concat "\n"
+; @output_buffer
+          ensure
+            self.output_buffer = old_output_buffer
+          end
+
+08.06.2010 0:32:08 sun.reflect.GeneratedMethodAccessor2 invoke
+INFO: Backtrace: C:/Program Files/NetBeans 6.8/ruby2/jruby-1.4.0/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_view/renderable.rb:77:in `module_eval'
+C:/Program Files/NetBeans 6.8/ruby2/jruby-1.4.0/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_view/renderable.rb:77:in `compile!'
+C:/Program Files/NetBeans 6.8/ruby2/jruby-1.4.0/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_view/renderable.rb:61:in `compile'
+C:/Program Files/NetBeans 6.8/ruby2/jruby-1.4.0/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_view/renderable.rb:28:in `render'
+C:/Program Files/NetBeans 6.8/ruby2/jruby-1.4.0/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_view/template.rb:199:in `render_template'
+C:/Program Files/NetBeans 6.8/ruby2/jruby-1.4.0/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_view/base.rb:260:in `render'
+C:/Program Files/NetBeans 6.8/ruby2/jruby-1.4.0/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/base.rb:1250:in `render_for_file'
+C:/Program Files/NetBeans 6.8/ruby2/jruby-1.4.0/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/base.rb:945:in `render'
+C:/Program Files/NetBeans 6.8/ruby2/jruby-1.4.0/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/benchmarking.rb:51:in `render_with_benchmark'
+C:/Program Files/NetBeans 6.8/ruby2/jruby-1.4.0/lib/ruby/gems/1.8/gems/activesupport-2.3.4/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+C:/Program Files/NetBeans 6.8/ruby2/jruby-1.4.0/lib/ruby/1.8/benchmark.rb:308:in `realtime'
+C:/Program Files/NetBeans 6.8/ruby2/jruby-1.4.0/lib/ruby/gems/1.8/gems/activesupport-2.3.4/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+C:/Program Files/NetBeans 6.8/ruby2/jruby-1.4.0/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/benchmarking.rb:51:in `render_with_benchmark'
+C:/Program Files/NetBeans 6.8/ruby2/jruby-1.4.0/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/base.rb:1326:in `default_render'
+C:/Program Files/NetBeans 6.8/ruby2/jruby-1.4.0/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/base.rb:1332:in `perform_action'
+C:/Program Files/NetBeans 6.8/ruby2/jruby-1.4.0/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/filters.rb:617:in `call_filters'
+C:/Program Files/NetBeans 6.8/ruby2/jruby-1.4.0/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/filters.rb:610:in `perform_action_with_filters'
+C:/Program Files/NetBeans 6.8/ruby2/jruby-1.4.0/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/benchmarking.rb:68:in `perform_action_with_benchmark'
+C:/Program Files/NetBeans 6.8/ruby2/jruby-1.4.0/lib/ruby/gems/1.8/gems/activesupport-2.3.4/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+C:/Program Files/NetBeans 6.8/ruby2/jruby-1.4.0/lib/ruby/1.8/benchmark.rb:308:in `realtime'
+C:/Program Files/NetBeans 6.8/ruby2/jruby-1.4.0/lib/ruby/gems/1.8/gems/activesupport-2.3.4/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+C:/Program Files/NetBeans 6.8/ruby2/jruby-1.4.0/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/benchmarking.rb:68:in `perform_action_with_benchmark'
+C:/Program Files/NetBeans 6.8/ruby2/jruby-1.4.0/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/rescue.rb:160:in `perform_action_with_rescue'
+C:/Program Files/NetBeans 6.8/ruby2/jruby-1.4.0/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/flash.rb:146:in `perform_action_with_flash'
+C:/Program Files/NetBeans 6.8/ruby2/jruby-1.4.0/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/base.rb:532:in `process'
+C:/Program Files/NetBeans 6.8/ruby2/jruby-1.4.0/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/filters.rb:606:in `process_with_filters'
+C:/Program Files/NetBeans 6.8/ruby2/jruby-1.4.0/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/base.rb:391:in `process'
+C:/Program Files/NetBeans 6.8/ruby2/jruby-1.4.0/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/base.rb:386:in `call'
+C:/Program Files/NetBeans 6.8/ruby2/jruby-1.4.0/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/routing/route_set.rb:437:in `call'
+C:/Program Files/NetBeans 6.8/ruby2/jruby-1.4.0/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/dispatcher.rb:87:in `dispatch'
+C:/Program Files/NetBeans 6.8/ruby2/jruby-1.4.0/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/dispatcher.rb:121:in `_call'
+C:/Program Files/NetBeans 6.8/ruby2/jruby-1.4.0/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/dispatcher.rb:130:in `build_middleware_stack'
+C:/Program Files/NetBeans 6.8/ruby2/jruby-1.4.0/lib/ruby/gems/1.8/gems/rack-1.0.0/lib/rack/head.rb:9:in `call'
+C:/Program Files/NetBeans 6.8/ruby2/jruby-1.4.0/lib/ruby/gems/1.8/gems/rack-1.0.0/lib/rack/head.rb:9:in `call'
+C:/Program Files/NetBeans 6.8/ruby2/jruby-1.4.0/lib/ruby/gems/1.8/gems/rack-1.0.0/lib/rack/methodoverride.rb:24:in `call'
+C:/Program Files/NetBeans 6.8/ruby2/jruby-1.4.0/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/params_parser.rb:15:in `call'
+C:/Program Files/NetBeans 6.8/ruby2/jruby-1.4.0/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/session/cookie_store.rb:93:in `call'
+C:/Program Files/NetBeans 6.8/ruby2/jruby-1.4.0/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/failsafe.rb:26:in `call'
+C:/Program Files/NetBeans 6.8/ruby2/jruby-1.4.0/lib/ruby/gems/1.8/gems/rack-1.0.0/lib/rack/lock.rb:11:in `call'
+C:/Program Files/NetBeans 6.8/ruby2/jruby-1.4.0/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/dispatcher.rb:114:in `call'
+C:/Program Files/NetBeans 6.8/ruby2/jruby-1.4.0/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/reloader.rb:34:in `run'
+C:/Program Files/NetBeans 6.8/ruby2/jruby-1.4.0/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/dispatcher.rb:108:in `call'
+C:/Program Files/NetBeans 6.8/ruby2/jruby-1.4.0/lib/ruby/gems/1.8/gems/glassfish-1.0.2-universal-java/lib/rack/adapter/rails.rb:133:in `call'
+C:/Program Files/NetBeans 6.8/ruby2/jruby-1.4.0/lib/ruby/gems/1.8/gems/glassfish-1.0.2-universal-java/lib/rack/handler/grizzly.rb:55:in `call'
+:1
+
+08.06.2010 0:32:09 sun.reflect.GeneratedMethodAccessor2 invoke
+INFO: 
+ActionView::TemplateError (C:/Users/admin/Documents/NetBeansProjects/IdoWeb/app/views/ido_web/Input.html.erb:8: , unexpected kENSURE
+
+          ensure
+^) on line #8 of app/views/ido_web/Input.html.erb:
+5: <%= submit_tag %>
+6: <% end  %>
+
+    :1
+
+
+08.06.2010 0:32:09 sun.reflect.GeneratedMethodAccessor2 invoke
+INFO: Rendered rescues/_trace (37.0ms)
+
+08.06.2010 0:32:09 sun.reflect.GeneratedMethodAccessor2 invoke
+INFO: Rendered rescues/_request_and_response (2.0ms)
+
+08.06.2010 0:32:09 sun.reflect.GeneratedMethodAccessor2 invoke
+INFO: Rendering rescues/layout (internal_server_error)
+
+08.06.2010 0:33:25 sun.reflect.GeneratedMethodAccessor2 invoke
+INFO: 
+
+Processing IdoWebController#Input (for 127.0.0.1 at 2010-06-08 00:33:25) [GET]
+
+08.06.2010 0:33:25 sun.reflect.GeneratedMethodAccessor2 invoke
+INFO:   Parameters: {"asdf"=>"asdf123"}
+
+08.06.2010 0:33:25 sun.reflect.GeneratedMethodAccessor2 invoke
+INFO: Rendering ido_web/Input
+
+08.06.2010 0:33:25 sun.reflect.GeneratedMethodAccessor2 invoke
+INFO: ERROR: compiling _run_erb_app47views47ido_web47Input46html46erb RAISED C:/Users/admin/Documents/NetBeansProjects/IdoWeb/app/views/ido_web/Input.html.erb:8: , unexpected kENSURE
+
+          ensure
+^
+
+08.06.2010 0:33:25 sun.reflect.GeneratedMethodAccessor2 invoke
+INFO: Function body:           def _run_erb_app47views47ido_web47Input46html46erb(local_assigns)
+            old_output_buffer = output_buffer;;@output_buffer = '';  __in_erb_template=true ; @output_buffer.concat "<h1> Select input txt file </h1>\n\n"
+
+;  form_tag :action => "Output", :ENCTYPE => "Multipart", :method => "Post" ; @output_buffer.concat "\nFilename: <input type=\"file\" name=\"source\" />\n"
+
+; @output_buffer.concat(( submit_tag ).to_s); @output_buffer.concat "\n"
+;  end  ; @output_buffer.concat "\n"
+; @output_buffer
+          ensure
+            self.output_buffer = old_output_buffer
+          end
+
+08.06.2010 0:33:25 sun.reflect.GeneratedMethodAccessor2 invoke
+INFO: Backtrace: C:/Program Files/NetBeans 6.8/ruby2/jruby-1.4.0/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_view/renderable.rb:77:in `module_eval'
+C:/Program Files/NetBeans 6.8/ruby2/jruby-1.4.0/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_view/renderable.rb:77:in `compile!'
+C:/Program Files/NetBeans 6.8/ruby2/jruby-1.4.0/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_view/renderable.rb:61:in `compile'
+C:/Program Files/NetBeans 6.8/ruby2/jruby-1.4.0/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_view/renderable.rb:28:in `render'
+C:/Program Files/NetBeans 6.8/ruby2/jruby-1.4.0/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_view/template.rb:199:in `render_template'
+C:/Program Files/NetBeans 6.8/ruby2/jruby-1.4.0/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_view/base.rb:260:in `render'
+C:/Program Files/NetBeans 6.8/ruby2/jruby-1.4.0/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/base.rb:1250:in `render_for_file'
+C:/Program Files/NetBeans 6.8/ruby2/jruby-1.4.0/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/base.rb:945:in `render'
+C:/Program Files/NetBeans 6.8/ruby2/jruby-1.4.0/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/benchmarking.rb:51:in `render_with_benchmark'
+C:/Program Files/NetBeans 6.8/ruby2/jruby-1.4.0/lib/ruby/gems/1.8/gems/activesupport-2.3.4/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+C:/Program Files/NetBeans 6.8/ruby2/jruby-1.4.0/lib/ruby/1.8/benchmark.rb:308:in `realtime'
+C:/Program Files/NetBeans 6.8/ruby2/jruby-1.4.0/lib/ruby/gems/1.8/gems/activesupport-2.3.4/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+C:/Program Files/NetBeans 6.8/ruby2/jruby-1.4.0/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/benchmarking.rb:51:in `render_with_benchmark'
+C:/Program Files/NetBeans 6.8/ruby2/jruby-1.4.0/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/base.rb:1326:in `default_render'
+C:/Program Files/NetBeans 6.8/ruby2/jruby-1.4.0/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/base.rb:1332:in `perform_action'
+C:/Program Files/NetBeans 6.8/ruby2/jruby-1.4.0/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/filters.rb:617:in `call_filters'
+C:/Program Files/NetBeans 6.8/ruby2/jruby-1.4.0/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/filters.rb:610:in `perform_action_with_filters'
+C:/Program Files/NetBeans 6.8/ruby2/jruby-1.4.0/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/benchmarking.rb:68:in `perform_action_with_benchmark'
+C:/Program Files/NetBeans 6.8/ruby2/jruby-1.4.0/lib/ruby/gems/1.8/gems/activesupport-2.3.4/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+C:/Program Files/NetBeans 6.8/ruby2/jruby-1.4.0/lib/ruby/1.8/benchmark.rb:308:in `realtime'
+C:/Program Files/NetBeans 6.8/ruby2/jruby-1.4.0/lib/ruby/gems/1.8/gems/activesupport-2.3.4/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+C:/Program Files/NetBeans 6.8/ruby2/jruby-1.4.0/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/benchmarking.rb:68:in `perform_action_with_benchmark'
+C:/Program Files/NetBeans 6.8/ruby2/jruby-1.4.0/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/rescue.rb:160:in `perform_action_with_rescue'
+C:/Program Files/NetBeans 6.8/ruby2/jruby-1.4.0/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/flash.rb:146:in `perform_action_with_flash'
+C:/Program Files/NetBeans 6.8/ruby2/jruby-1.4.0/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/base.rb:532:in `process'
+C:/Program Files/NetBeans 6.8/ruby2/jruby-1.4.0/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/filters.rb:606:in `process_with_filters'
+C:/Program Files/NetBeans 6.8/ruby2/jruby-1.4.0/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/base.rb:391:in `process'
+C:/Program Files/NetBeans 6.8/ruby2/jruby-1.4.0/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/base.rb:386:in `call'
+C:/Program Files/NetBeans 6.8/ruby2/jruby-1.4.0/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/routing/route_set.rb:437:in `call'
+C:/Program Files/NetBeans 6.8/ruby2/jruby-1.4.0/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/dispatcher.rb:87:in `dispatch'
+C:/Program Files/NetBeans 6.8/ruby2/jruby-1.4.0/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/dispatcher.rb:121:in `_call'
+C:/Program Files/NetBeans 6.8/ruby2/jruby-1.4.0/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/dispatcher.rb:130:in `build_middleware_stack'
+C:/Program Files/NetBeans 6.8/ruby2/jruby-1.4.0/lib/ruby/gems/1.8/gems/rack-1.0.0/lib/rack/head.rb:9:in `call'
+C:/Program Files/NetBeans 6.8/ruby2/jruby-1.4.0/lib/ruby/gems/1.8/gems/rack-1.0.0/lib/rack/head.rb:9:in `call'
+C:/Program Files/NetBeans 6.8/ruby2/jruby-1.4.0/lib/ruby/gems/1.8/gems/rack-1.0.0/lib/rack/methodoverride.rb:24:in `call'
+C:/Program Files/NetBeans 6.8/ruby2/jruby-1.4.0/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/params_parser.rb:15:in `call'
+C:/Program Files/NetBeans 6.8/ruby2/jruby-1.4.0/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/session/cookie_store.rb:93:in `call'
+C:/Program Files/NetBeans 6.8/ruby2/jruby-1.4.0/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/failsafe.rb:26:in `call'
+C:/Program Files/NetBeans 6.8/ruby2/jruby-1.4.0/lib/ruby/gems/1.8/gems/rack-1.0.0/lib/rack/lock.rb:11:in `call'
+C:/Program Files/NetBeans 6.8/ruby2/jruby-1.4.0/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/dispatcher.rb:114:in `call'
+C:/Program Files/NetBeans 6.8/ruby2/jruby-1.4.0/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/reloader.rb:34:in `run'
+C:/Program Files/NetBeans 6.8/ruby2/jruby-1.4.0/lib/ruby/gems/1.8/gems/actionpack-2.3.4/lib/action_controller/dispatcher.rb:108:in `call'
+C:/Program Files/NetBeans 6.8/ruby2/jruby-1.4.0/lib/ruby/gems/1.8/gems/glassfish-1.0.2-universal-java/lib/rack/adapter/rails.rb:133:in `call'
+C:/Program Files/NetBeans 6.8/ruby2/jruby-1.4.0/lib/ruby/gems/1.8/gems/glassfish-1.0.2-universal-java/lib/rack/handler/grizzly.rb:55:in `call'
+:1
+
+08.06.2010 0:33:25 sun.reflect.GeneratedMethodAccessor2 invoke
+INFO: 
+ActionView::TemplateError (C:/Users/admin/Documents/NetBeansProjects/IdoWeb/app/views/ido_web/Input.html.erb:8: , unexpected kENSURE
+
+          ensure
+^) on line #8 of app/views/ido_web/Input.html.erb:
+5: <%= submit_tag %>
+6: <% end  %>
+
+    :1
+
+
+08.06.2010 0:33:25 sun.reflect.GeneratedMethodAccessor2 invoke
+INFO: Rendered rescues/_trace (37.0ms)
+
+08.06.2010 0:33:25 sun.reflect.GeneratedMethodAccessor2 invoke
+INFO: Rendered rescues/_request_and_response (5.0ms)
+
+08.06.2010 0:33:25 sun.reflect.GeneratedMethodAccessor2 invoke
+INFO: Rendering rescues/layout (internal_server_error)
+
+08.06.2010 0:33:51 sun.reflect.GeneratedMethodAccessor2 invoke
+INFO: 
+
+Processing IdoWebController#Input (for 127.0.0.1 at 2010-06-08 00:33:51) [GET]
+
+08.06.2010 0:33:51 sun.reflect.GeneratedMethodAccessor2 invoke
+INFO:   Parameters: {"asdf"=>"asdf123"}
+
+08.06.2010 0:33:51 sun.reflect.GeneratedMethodAccessor2 invoke
+INFO: Rendering ido_web/Input
+
+08.06.2010 0:33:51 sun.reflect.GeneratedMethodAccessor2 invoke
+INFO: Completed in 34ms (View: 32 | 200 OK [http://localhost/?asdf=asdf123]
+
+08.06.2010 0:34:15 sun.reflect.GeneratedMethodAccessor2 invoke
+INFO: 
+
+Processing IdoWebController#Input (for 127.0.0.1 at 2010-06-08 00:34:15) [GET]
+
+08.06.2010 0:34:15 sun.reflect.GeneratedMethodAccessor2 invoke
+INFO:   Parameters: {"asdf"=>"asdf123"}
+
+08.06.2010 0:34:15 sun.reflect.GeneratedMethodAccessor2 invoke
+INFO: Rendering ido_web/Input
+
+08.06.2010 0:34:15 sun.reflect.GeneratedMethodAccessor2 invoke
+INFO: Completed in 37ms (View: 33 | 200 OK [http://localhost/?asdf=asdf123]
+
+08.06.2010 0:36:23 sun.reflect.GeneratedMethodAccessor2 invoke
+INFO: 
+
+Processing IdoWebController#Input (for 127.0.0.1 at 2010-06-08 00:36:23) [GET]
+
+08.06.2010 0:36:23 sun.reflect.GeneratedMethodAccessor2 invoke
+INFO:   Parameters: {"asdf"=>"asdf123"}
+
+08.06.2010 0:36:23 sun.reflect.GeneratedMethodAccessor2 invoke
+INFO: Rendering ido_web/Input
+
+08.06.2010 0:36:23 sun.reflect.GeneratedMethodAccessor2 invoke
+INFO: Completed in 82ms (View: 79 | 200 OK [http://localhost/?asdf=asdf123]
+
+08.06.2010 0:36:25 sun.reflect.GeneratedMethodAccessor2 invoke
+INFO: 
+
+Processing IdoWebController#Input (for 127.0.0.1 at 2010-06-08 00:36:25) [GET]
+
+08.06.2010 0:36:25 sun.reflect.GeneratedMethodAccessor2 invoke
+INFO:   Parameters: {"asdf"=>"asdf123"}
+
+08.06.2010 0:36:25 sun.reflect.GeneratedMethodAccessor2 invoke
+INFO: Rendering ido_web/Input
+
+08.06.2010 0:36:25 sun.reflect.GeneratedMethodAccessor2 invoke
+INFO: Completed in 18ms (View: 15 | 200 OK [http://localhost/?asdf=asdf123]
+
+08.06.2010 0:36:33 sun.reflect.GeneratedMethodAccessor2 invoke
+INFO: 
+
+Processing IdoWebController#Input (for 127.0.0.1 at 2010-06-08 00:36:33) [GET]
+
+08.06.2010 0:36:33 sun.reflect.GeneratedMethodAccessor2 invoke
+INFO:   Parameters: {"asdf"=>"asdf123"}
+
+08.06.2010 0:36:33 sun.reflect.GeneratedMethodAccessor2 invoke
+INFO: Rendering ido_web/Input
+
+08.06.2010 0:36:33 sun.reflect.GeneratedMethodAccessor2 invoke
+INFO: Completed in 34ms (View: 24 | 200 OK [http://localhost/?asdf=asdf123]
+
+08.06.2010 0:37:41 sun.reflect.GeneratedMethodAccessor2 invoke
+INFO: 
+
+Processing IdoWebController#Input (for 127.0.0.1 at 2010-06-08 00:37:41) [GET]
+
+08.06.2010 0:37:41 sun.reflect.GeneratedMethodAccessor2 invoke
+INFO:   Parameters: {"asdf"=>"asdf123"}
+
+08.06.2010 0:37:41 sun.reflect.GeneratedMethodAccessor2 invoke
+INFO: Rendering ido_web/Input
+
+08.06.2010 0:37:41 sun.reflect.GeneratedMethodAccessor2 invoke
+INFO: Completed in 43ms (View: 26 | 200 OK [http://localhost/?asdf=asdf123]
+
+08.06.2010 0:37:42 sun.reflect.GeneratedMethodAccessor2 invoke
+INFO: 
+
+Processing IdoWebController#Input (for 127.0.0.1 at 2010-06-08 00:37:42) [GET]
+
+08.06.2010 0:37:42 sun.reflect.GeneratedMethodAccessor2 invoke
+INFO:   Parameters: {"asdf"=>"asdf123"}
+
+08.06.2010 0:37:42 sun.reflect.GeneratedMethodAccessor2 invoke
+INFO: Rendering ido_web/Input
+
+08.06.2010 0:37:42 sun.reflect.GeneratedMethodAccessor2 invoke
+INFO: Completed in 65ms (View: 62 | 200 OK [http://localhost/?asdf=asdf123]
+
+08.06.2010 0:38:46 sun.reflect.GeneratedMethodAccessor2 invoke
+INFO: 
+
+Processing IdoWebController#Input (for 127.0.0.1 at 2010-06-08 00:38:46) [GET]
+
+08.06.2010 0:38:46 sun.reflect.GeneratedMethodAccessor2 invoke
+INFO:   Parameters: {"asdf"=>"asdf123"}
+
+08.06.2010 0:38:46 sun.reflect.GeneratedMethodAccessor2 invoke
+INFO: Rendering ido_web/Input
+
+08.06.2010 0:38:46 sun.reflect.GeneratedMethodAccessor2 invoke
+INFO: Completed in 22ms (View: 19 | 200 OK [http://localhost/?asdf=asdf123]
+
+08.06.2010 0:40:31 sun.reflect.GeneratedMethodAccessor2 invoke
+INFO: 
+
+Processing IdoWebController#Input (for 127.0.0.1 at 2010-06-08 00:40:31) [GET]
+
+08.06.2010 0:40:31 sun.reflect.GeneratedMethodAccessor2 invoke
+INFO:   Parameters: {"asdf"=>"asdf123"}
+
+08.06.2010 0:40:31 sun.reflect.GeneratedMethodAccessor2 invoke
+INFO: Rendering ido_web/Input
+
+08.06.2010 0:40:31 sun.reflect.GeneratedMethodAccessor2 invoke
+INFO: Completed in 49ms (View: 46 | 200 OK [http://localhost/?asdf=asdf123]
+
+08.06.2010 0:41:17 sun.reflect.GeneratedMethodAccessor2 invoke
+INFO: 
+
+Processing IdoWebController#Input (for 127.0.0.1 at 2010-06-08 00:41:17) [GET]
+
+08.06.2010 0:41:17 sun.reflect.GeneratedMethodAccessor2 invoke
+INFO:   Parameters: {"asdf"=>"asdf123"}
+
+08.06.2010 0:41:17 sun.reflect.GeneratedMethodAccessor2 invoke
+INFO: Rendering ido_web/Input
+
+08.06.2010 0:41:17 sun.reflect.GeneratedMethodAccessor2 invoke
+INFO: Completed in 25ms (View: 22 | 200 OK [http://localhost/?asdf=asdf123]
+
+08.06.2010 0:41:29 sun.reflect.GeneratedMethodAccessor2 invoke
+INFO: 
+
+Processing IdoWebController#Input (for 127.0.0.1 at 2010-06-08 00:41:29) [GET]
+
+08.06.2010 0:41:29 sun.reflect.GeneratedMethodAccessor2 invoke
+INFO:   Parameters: {"asdf"=>"asdf123"}
+
+08.06.2010 0:41:29 sun.reflect.GeneratedMethodAccessor2 invoke
+INFO: Rendering ido_web/Input
+
+08.06.2010 0:41:29 sun.reflect.GeneratedMethodAccessor2 invoke
+INFO: Completed in 25ms (View: 21 | 200 OK [http://localhost/?asdf=asdf123]
+
+08.06.2010 0:41:42 sun.reflect.GeneratedMethodAccessor2 invoke
+INFO: 
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-06-08 00:41:42) [POST]
+
+08.06.2010 0:41:42 sun.reflect.GeneratedMethodAccessor2 invoke
+INFO:   Parameters: {"authenticity_token"=>"mZH+NWujWoAjgV4rTMGhO6Iek24x7kjvvscriopg7xM=", "source"=>#<File:C:\Users\admin\AppData\Local\Temp\RackMultipart.3320.61687>, "commit"=>"Submit"}
+
+08.06.2010 0:41:42 sun.reflect.GeneratedMethodAccessor2 invoke
+INFO: 
+ActionController::RoutingError (No route matches "/idoweb/Output" with {:method=>:post}):
+  :1
+
+
+08.06.2010 0:41:42 sun.reflect.GeneratedMethodAccessor2 invoke
+INFO: Rendering rescues/layout (not_found)
+
+08.06.2010 0:41:59 sun.reflect.GeneratedMethodAccessor2 invoke
+INFO: 
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-06-08 00:41:59) [GET]
+
+08.06.2010 0:41:59 sun.reflect.GeneratedMethodAccessor2 invoke
+INFO: 
+ActionController::RoutingError (No route matches "/idoweb/Output" with {:method=>:get}):
+  :1
+
+
+08.06.2010 0:41:59 sun.reflect.GeneratedMethodAccessor2 invoke
+INFO: Rendering rescues/layout (not_found)
+
+08.06.2010 0:42:00 sun.reflect.GeneratedMethodAccessor2 invoke
+INFO: 
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-06-08 00:42:00) [GET]
+
+08.06.2010 0:42:00 sun.reflect.GeneratedMethodAccessor2 invoke
+INFO: 
+ActionController::RoutingError (No route matches "/idoweb/Output" with {:method=>:get}):
+  :1
+
+
+08.06.2010 0:42:00 sun.reflect.GeneratedMethodAccessor2 invoke
+INFO: Rendering rescues/layout (not_found)
+
+08.06.2010 0:42:44 sun.reflect.GeneratedMethodAccessor2 invoke
+INFO: 
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-06-08 00:42:44) [GET]
+
+08.06.2010 0:42:44 sun.reflect.GeneratedMethodAccessor2 invoke
+INFO: 
+ActionController::RoutingError (No route matches "/idoweb/Input" with {:method=>:get}):
+  :1
+
+
+08.06.2010 0:42:44 sun.reflect.GeneratedMethodAccessor2 invoke
+INFO: Rendering rescues/layout (not_found)
+
+08.06.2010 0:42:47 sun.reflect.GeneratedMethodAccessor2 invoke
+INFO: 
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-06-08 00:42:47) [GET]
+
+08.06.2010 0:42:47 sun.reflect.GeneratedMethodAccessor2 invoke
+INFO: 
+ActionController::RoutingError (No route matches "/idoweb/input" with {:method=>:get}):
+  :1
+
+
+08.06.2010 0:42:47 sun.reflect.GeneratedMethodAccessor2 invoke
+INFO: Rendering rescues/layout (not_found)
+
+08.06.2010 0:42:54 sun.reflect.GeneratedMethodAccessor2 invoke
+INFO: 
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-06-08 00:42:54) [GET]
+
+08.06.2010 0:42:54 sun.reflect.GeneratedMethodAccessor2 invoke
+INFO: 
+ActionController::RoutingError (No route matches "/IdoWeb/Input" with {:method=>:get}):
+  :1
+
+
+08.06.2010 0:42:54 sun.reflect.GeneratedMethodAccessor2 invoke
+INFO: Rendering rescues/layout (not_found)
+
+08.06.2010 0:43:02 sun.reflect.GeneratedMethodAccessor2 invoke
+INFO: 
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-06-08 00:43:02) [GET]
+
+08.06.2010 0:43:02 sun.reflect.GeneratedMethodAccessor2 invoke
+INFO: 
+ActionController::RoutingError (No route matches "/IdoWeb/input" with {:method=>:get}):
+  :1
+
+
+08.06.2010 0:43:02 sun.reflect.GeneratedMethodAccessor2 invoke
+INFO: Rendering rescues/layout (not_found)
+
+08.06.2010 0:43:23 sun.reflect.GeneratedMethodAccessor2 invoke
+INFO: 
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-06-08 00:43:23) [GET]
+
+08.06.2010 0:43:23 sun.reflect.GeneratedMethodAccessor2 invoke
+INFO: 
+ActionController::RoutingError (No route matches "/idoweb/input" with {:method=>:get}):
+  :1
+
+
+08.06.2010 0:43:23 sun.reflect.GeneratedMethodAccessor2 invoke
+INFO: Rendering rescues/layout (not_found)
+
+08.06.2010 0:43:28 sun.reflect.GeneratedMethodAccessor2 invoke
+INFO: 
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-06-08 00:43:28) [GET]
+
+08.06.2010 0:43:28 sun.reflect.GeneratedMethodAccessor2 invoke
+INFO: 
+ActionController::RoutingError (No route matches "/idoweb/input/" with {:method=>:get}):
+  :1
+
+
+08.06.2010 0:43:28 sun.reflect.GeneratedMethodAccessor2 invoke
+INFO: Rendering rescues/layout (not_found)
+
+08.06.2010 0:43:39 sun.reflect.GeneratedMethodAccessor2 invoke
+INFO: 
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-06-08 00:43:39) [GET]
+
+08.06.2010 0:43:39 sun.reflect.GeneratedMethodAccessor2 invoke
+INFO: 
+ActionController::RoutingError (No route matches "/idoweb1/input/" with {:method=>:get}):
+  :1
+
+
+08.06.2010 0:43:39 sun.reflect.GeneratedMethodAccessor2 invoke
+INFO: Rendering rescues/layout (not_found)
+
+08.06.2010 0:45:07 sun.reflect.GeneratedMethodAccessor2 invoke
+INFO: 
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-06-08 00:45:07) [GET]
+
+08.06.2010 0:45:07 sun.reflect.GeneratedMethodAccessor2 invoke
+INFO: 
+ActionController::RoutingError (No route matches "/IdoWeb/Input" with {:method=>:get}):
+  :1
+
+
+08.06.2010 0:45:07 sun.reflect.GeneratedMethodAccessor2 invoke
+INFO: Rendering rescues/layout (not_found)
+
+08.06.2010 0:45:59 sun.reflect.GeneratedMethodAccessor2 invoke
+INFO: 
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-06-08 00:45:59) [GET]
+
+08.06.2010 0:45:59 sun.reflect.GeneratedMethodAccessor2 invoke
+INFO: 
+ActionController::RoutingError (No route matches "/IdoWeb/Input/9" with {:method=>:get}):
+  :1
+
+
+08.06.2010 0:45:59 sun.reflect.GeneratedMethodAccessor2 invoke
+INFO: Rendering rescues/layout (not_found)
+
+08.06.2010 0:46:29 sun.reflect.GeneratedMethodAccessor2 invoke
+INFO: 
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-06-08 00:46:29) [GET]
+
+08.06.2010 0:46:29 sun.reflect.GeneratedMethodAccessor2 invoke
+INFO: 
+ActionController::RoutingError (No route matches "/IdoWebController/Input/9" with {:method=>:get}):
+  :1
+
+
+08.06.2010 0:46:29 sun.reflect.GeneratedMethodAccessor2 invoke
+INFO: Rendering rescues/layout (not_found)
+
+08.06.2010 0:46:32 sun.reflect.GeneratedMethodAccessor2 invoke
+INFO: 
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-06-08 00:46:32) [GET]
+
+08.06.2010 0:46:32 sun.reflect.GeneratedMethodAccessor2 invoke
+INFO: 
+ActionController::RoutingError (No route matches "/IdoWebController/Input" with {:method=>:get}):
+  :1
+
+
+08.06.2010 0:46:32 sun.reflect.GeneratedMethodAccessor2 invoke
+INFO: Rendering rescues/layout (not_found)
+
+08.06.2010 0:48:19 sun.reflect.GeneratedMethodAccessor2 invoke
+INFO: 
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-06-08 00:48:19) [GET]
+
+08.06.2010 0:48:19 sun.reflect.GeneratedMethodAccessor2 invoke
+INFO: 
+ActionController::RoutingError (No route matches "/IdoWeb/Input" with {:method=>:get}):
+  :1
+
+
+08.06.2010 0:48:19 sun.reflect.GeneratedMethodAccessor2 invoke
+INFO: Rendering rescues/layout (not_found)
+
+08.06.2010 0:49:18 sun.reflect.GeneratedMethodAccessor2 invoke
+INFO: 
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-06-08 00:49:18) [GET]
+
+08.06.2010 0:49:18 sun.reflect.GeneratedMethodAccessor2 invoke
+INFO: 
+ActionController::RoutingError (No route matches "/IdoWeb/Input.html" with {:method=>:get}):
+  :1
+
+
+08.06.2010 0:49:18 sun.reflect.GeneratedMethodAccessor2 invoke
+INFO: Rendering rescues/layout (not_found)
+
+08.06.2010 0:49:22 sun.reflect.GeneratedMethodAccessor2 invoke
+INFO: 
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-06-08 00:49:22) [GET]
+
+08.06.2010 0:49:22 sun.reflect.GeneratedMethodAccessor2 invoke
+INFO: 
+ActionController::RoutingError (No route matches "/IdoWeb/Input" with {:method=>:get}):
+  :1
+
+
+08.06.2010 0:49:22 sun.reflect.GeneratedMethodAccessor2 invoke
+INFO: Rendering rescues/layout (not_found)
+
+08.06.2010 0:49:28 sun.reflect.GeneratedMethodAccessor2 invoke
+INFO: 
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-06-08 00:49:28) [GET]
+
+08.06.2010 0:49:28 sun.reflect.GeneratedMethodAccessor2 invoke
+INFO: 
+ActionController::RoutingError (No route matches "/IdoWeb/Inpu" with {:method=>:get}):
+  :1
+
+
+08.06.2010 0:49:28 sun.reflect.GeneratedMethodAccessor2 invoke
+INFO: Rendering rescues/layout (not_found)
+
+08.06.2010 0:49:33 sun.reflect.GeneratedMethodAccessor2 invoke
+INFO: 
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-06-08 00:49:33) [GET]
+
+08.06.2010 0:49:33 sun.reflect.GeneratedMethodAccessor2 invoke
+INFO: 
+ActionController::RoutingError (No route matches "/IdoWeb/inpu" with {:method=>:get}):
+  :1
+
+
+08.06.2010 0:49:33 sun.reflect.GeneratedMethodAccessor2 invoke
+INFO: Rendering rescues/layout (not_found)
+
+08.06.2010 0:49:48 sun.reflect.GeneratedMethodAccessor2 invoke
+INFO: 
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-06-08 00:49:48) [GET]
+
+08.06.2010 0:49:48 sun.reflect.GeneratedMethodAccessor2 invoke
+INFO: 
+ActionController::RoutingError (No route matches "/IdoWe/inpu" with {:method=>:get}):
+  :1
+
+
+08.06.2010 0:49:48 sun.reflect.GeneratedMethodAccessor2 invoke
+INFO: Rendering rescues/layout (not_found)
+
+08.06.2010 0:50:34 com.sun.enterprise.v3.server.AppServerStartup run
+INFO: GlassFish v3 (74b) startup time : Embedded(987ms) startup services(401ms) total(1388ms)
+08.06.2010 0:50:34 AppServerStartup run
+INFO: [Thread[GlassFish Kernel Main Thread,5,main]] started
+08.06.2010 0:50:34 org.hibernate.validator.util.Version <clinit>
+INFO: Hibernate Validator null
+08.06.2010 0:50:35 com.sun.enterprise.v3.services.impl.GrizzlyProxy$2$1 onReady
+INFO: Grizzly Framework 1.9.18-k started in: 467ms listening on port 3000
+08.06.2010 0:50:35 org.glassfish.kernel.config.DefaultConfigParser$2 run
+INFO: interface org.glassfish.scripting.jruby.config.JrubyContainer
+08.06.2010 0:50:35 org.glassfish.scripting.jruby.JRubyConfigImpl <init>
+INFO: Running IdoWeb in development environment.
+08.06.2010 0:50:35 org.glassfish.scripting.jruby.RackApplicationChooser detectRails
+INFO: Rails application detected.
+08.06.2010 0:50:35 org.glassfish.scripting.jruby.JRubyApplication <init>
+INFO: Loading application IdoWeb at /
+08.06.2010 0:50:35 com.sun.grizzly.jruby.RackGrizzlyAdapter <init>
+INFO: JRuby version is: 1.4.0
+08.06.2010 0:50:44 com.sun.grizzly.jruby.rack.RackApplicationPoolFactory newApplication
+INFO: New instance of rails created in 8 455 milliseconds
+08.06.2010 0:50:44 com.sun.grizzly.scripting.pool.DynamicPool logDynamicStatus
+INFO: Pool started without dynamic resizing enabled. Pool will not attempt to determine the upper and lower bounds that it should be using, and will stay at 1
+08.06.2010 0:50:45 sun.reflect.NativeMethodAccessorImpl invoke0
+INFO: 
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-06-08 00:50:45) [GET]
+
+08.06.2010 0:50:46 sun.reflect.NativeMethodAccessorImpl invoke0
+INFO: 
+ActionController::RoutingError (No route matches "/IdoWe/inpu/" with {:method=>:get}):
+  :1
+
+
+08.06.2010 0:50:46 sun.reflect.NativeMethodAccessorImpl invoke0
+INFO: Rendering rescues/layout (not_found)
+
+08.06.2010 0:50:46 sun.reflect.NativeMethodAccessorImpl invoke0
+INFO: 
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-06-08 00:50:46) [GET]
+
+08.06.2010 0:50:46 sun.reflect.NativeMethodAccessorImpl invoke0
+INFO: 
+ActionController::RoutingError (No route matches "/IdoWe/inpu/" with {:method=>:get}):
+  :1
+
+
+08.06.2010 0:50:46 sun.reflect.NativeMethodAccessorImpl invoke0
+INFO: Rendering rescues/layout (not_found)
+
+08.06.2010 0:51:54 sun.reflect.NativeMethodAccessorImpl invoke0
+INFO: 
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-06-08 00:51:54) [GET]
+
+08.06.2010 0:51:54 sun.reflect.NativeMethodAccessorImpl invoke0
+INFO: 
+ActionController::RoutingError (No route matches "/IdoWe/inpu/" with {:method=>:get}):
+  :1
+
+
+08.06.2010 0:51:54 sun.reflect.NativeMethodAccessorImpl invoke0
+INFO: Rendering rescues/layout (not_found)
+
+08.06.2010 0:53:27 sun.reflect.NativeMethodAccessorImpl invoke0
+INFO: 
+
+Processing IdoWebController#index (for 127.0.0.1 at 2010-06-08 00:53:27) [GET]
+
+08.06.2010 0:53:27 sun.reflect.NativeMethodAccessorImpl invoke0
+INFO: 
+ActionController::UnknownAction (No action responded to index. Actions: Input and Output):
+  :1
+
+
+08.06.2010 0:53:27 sun.reflect.NativeMethodAccessorImpl invoke0
+INFO: Rendering rescues/layout (not_found)
+
+08.06.2010 0:53:36 sun.reflect.NativeMethodAccessorImpl invoke0
+INFO: 
+
+Processing IdoWebController#input (for 127.0.0.1 at 2010-06-08 00:53:36) [GET]
+
+08.06.2010 0:53:36 sun.reflect.NativeMethodAccessorImpl invoke0
+INFO: 
+ActionController::UnknownAction (No action responded to input. Actions: Input and Output):
+  :1
+
+
+08.06.2010 0:53:36 sun.reflect.NativeMethodAccessorImpl invoke0
+INFO: Rendering rescues/layout (not_found)
+
+08.06.2010 0:53:43 sun.reflect.NativeMethodAccessorImpl invoke0
+INFO: 
+
+Processing IdoWebController#Input (for 127.0.0.1 at 2010-06-08 00:53:43) [GET]
+
+08.06.2010 0:53:43 sun.reflect.GeneratedMethodAccessor1 invoke
+INFO: Rendering ido_web/Input
+
+08.06.2010 0:53:44 sun.reflect.GeneratedMethodAccessor1 invoke
+INFO: Completed in 942ms (View: 937 | 200 OK [http://localhost/ido_web/Input]
+
+08.06.2010 0:54:05 sun.reflect.GeneratedMethodAccessor1 invoke
+INFO: 
+
+Processing IdoWebController#Output (for 127.0.0.1 at 2010-06-08 00:54:05) [POST]
+
+08.06.2010 0:54:05 sun.reflect.GeneratedMethodAccessor1 invoke
+INFO:   Parameters: {"authenticity_token"=>"mZH+NWujWoAjgV4rTMGhO6Iek24x7kjvvscriopg7xM=", "commit"=>"Submit"}
+
+08.06.2010 0:54:05 sun.reflect.GeneratedMethodAccessor1 invoke
+INFO: Rendering ido_web/Output
+
+08.06.2010 0:54:05 sun.reflect.GeneratedMethodAccessor1 invoke
+INFO: Completed in 25ms (View: 15 | 200 OK [http://localhost/ido_web/Output]
+
+08.06.2010 0:54:14 sun.reflect.GeneratedMethodAccessor1 invoke
+INFO: 
+
+Processing IdoWebController#Output (for 127.0.0.1 at 2010-06-08 00:54:14) [POST]
+
+08.06.2010 0:54:14 sun.reflect.GeneratedMethodAccessor1 invoke
+INFO:   Parameters: {"authenticity_token"=>"mZH+NWujWoAjgV4rTMGhO6Iek24x7kjvvscriopg7xM=", "commit"=>"Submit"}
+
+08.06.2010 0:54:14 sun.reflect.GeneratedMethodAccessor1 invoke
+INFO: Rendering ido_web/Output
+
+08.06.2010 0:54:14 sun.reflect.GeneratedMethodAccessor1 invoke
+INFO: Completed in 12ms (View: 6 | 200 OK [http://localhost/ido_web/Output]
+
+08.06.2010 0:54:18 sun.reflect.GeneratedMethodAccessor1 invoke
+INFO: 
+
+Processing IdoWebController#Output (for 127.0.0.1 at 2010-06-08 00:54:18) [POST]
+
+08.06.2010 0:54:18 sun.reflect.GeneratedMethodAccessor1 invoke
+INFO:   Parameters: {"authenticity_token"=>"mZH+NWujWoAjgV4rTMGhO6Iek24x7kjvvscriopg7xM=", "source"=>#<File:C:\Users\admin\AppData\Local\Temp\RackMultipart.1288.39553>, "commit"=>"Submit"}
+
+08.06.2010 0:54:18 sun.reflect.GeneratedMethodAccessor1 invoke
+INFO: Rendering ido_web/Output
+
+08.06.2010 0:54:18 sun.reflect.GeneratedMethodAccessor1 invoke
+INFO: Completed in 15ms (View: 8 | 200 OK [http://localhost/ido_web/Output]
+
+08.06.2010 0:55:56 sun.reflect.GeneratedMethodAccessor1 invoke
+INFO: 
+
+Processing IdoWebController#index (for 127.0.0.1 at 2010-06-08 00:55:56) [GET]
+
+08.06.2010 0:55:56 sun.reflect.GeneratedMethodAccessor1 invoke
+INFO: 
+ActionController::UnknownAction (No action responded to index. Actions: Input and Output):
+  :1
+
+
+08.06.2010 0:55:56 sun.reflect.GeneratedMethodAccessor1 invoke
+INFO: Rendering rescues/layout (not_found)
+
+08.06.2010 0:55:58 sun.reflect.GeneratedMethodAccessor1 invoke
+INFO: 
+
+Processing IdoWebController#Input (for 127.0.0.1 at 2010-06-08 00:55:58) [GET]
+
+08.06.2010 0:55:58 sun.reflect.GeneratedMethodAccessor1 invoke
+INFO: Rendering ido_web/Input
+
+08.06.2010 0:55:58 sun.reflect.GeneratedMethodAccessor1 invoke
+INFO: Completed in 32ms (View: 29 | 200 OK [http://localhost/]
+
+08.06.2010 0:56:04 sun.reflect.GeneratedMethodAccessor1 invoke
+INFO: 
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-06-08 00:56:04) [POST]
+
+08.06.2010 0:56:04 sun.reflect.GeneratedMethodAccessor1 invoke
+INFO:   Parameters: {"authenticity_token"=>"mZH+NWujWoAjgV4rTMGhO6Iek24x7kjvvscriopg7xM=", "source"=>#<File:C:\Users\admin\AppData\Local\Temp\RackMultipart.1288.39554>, "commit"=>"Submit"}
+
+08.06.2010 0:56:04 sun.reflect.GeneratedMethodAccessor1 invoke
+INFO: 
+ActionController::RoutingError (No route matches "/idoweb/Output" with {:method=>:post}):
+  :1
+
+
+08.06.2010 0:56:04 sun.reflect.GeneratedMethodAccessor1 invoke
+INFO: Rendering rescues/layout (not_found)
+
+08.06.2010 0:56:12 sun.reflect.GeneratedMethodAccessor1 invoke
+INFO: 
+
+Processing IdoWebController#Input (for 127.0.0.1 at 2010-06-08 00:56:12) [GET]
+
+08.06.2010 0:56:12 sun.reflect.GeneratedMethodAccessor1 invoke
+INFO: Rendering ido_web/Input
+
+08.06.2010 0:56:12 sun.reflect.GeneratedMethodAccessor1 invoke
+INFO: Completed in 19ms (View: 16 | 200 OK [http://localhost/]
+
+08.06.2010 0:56:39 sun.reflect.GeneratedMethodAccessor1 invoke
+INFO: 
+
+Processing IdoWebController#Input (for 127.0.0.1 at 2010-06-08 00:56:39) [GET]
+
+08.06.2010 0:56:39 sun.reflect.GeneratedMethodAccessor1 invoke
+INFO: Rendering ido_web/Input
+
+08.06.2010 0:56:39 sun.reflect.GeneratedMethodAccessor1 invoke
+INFO: Completed in 20ms (View: 16 | 200 OK [http://localhost/]
+
+08.06.2010 0:57:22 sun.reflect.GeneratedMethodAccessor1 invoke
+INFO: 
+
+Processing IdoWebController#Input (for 127.0.0.1 at 2010-06-08 00:57:22) [GET]
+
+08.06.2010 0:57:22 sun.reflect.GeneratedMethodAccessor1 invoke
+INFO: Rendering ido_web/Input
+
+08.06.2010 0:57:22 sun.reflect.GeneratedMethodAccessor1 invoke
+INFO: Completed in 50ms (View: 47 | 200 OK [http://localhost/]
+
+08.06.2010 0:57:56 sun.reflect.GeneratedMethodAccessor1 invoke
+INFO: 
+
+Processing IdoWebController#Input (for 127.0.0.1 at 2010-06-08 00:57:56) [GET]
+
+08.06.2010 0:57:56 sun.reflect.GeneratedMethodAccessor1 invoke
+INFO: Rendering ido_web/Input
+
+08.06.2010 0:57:56 sun.reflect.GeneratedMethodAccessor1 invoke
+INFO: Completed in 22ms (View: 15 | 200 OK [http://localhost/]
+
+08.06.2010 0:58:00 sun.reflect.GeneratedMethodAccessor1 invoke
+INFO: 
+
+Processing IdoWebController#Output (for 127.0.0.1 at 2010-06-08 00:58:00) [POST]
+
+08.06.2010 0:58:00 sun.reflect.GeneratedMethodAccessor1 invoke
+INFO:   Parameters: {"authenticity_token"=>"mZH+NWujWoAjgV4rTMGhO6Iek24x7kjvvscriopg7xM=", "source"=>#<File:C:\Users\admin\AppData\Local\Temp\RackMultipart.1288.39555>, "commit"=>"Submit"}
+
+08.06.2010 0:58:00 sun.reflect.GeneratedMethodAccessor1 invoke
+INFO: Rendering ido_web/Output
+
+08.06.2010 0:58:00 sun.reflect.GeneratedMethodAccessor1 invoke
+INFO: Completed in 23ms (View: 18 | 200 OK [http://localhost/ido_web/Output]
+
+08.06.2010 0:58:05 sun.reflect.GeneratedMethodAccessor1 invoke
+INFO: 
+
+Processing IdoWebController#Output (for 127.0.0.1 at 2010-06-08 00:58:05) [POST]
+
+08.06.2010 0:58:05 sun.reflect.GeneratedMethodAccessor1 invoke
+INFO:   Parameters: {"authenticity_token"=>"mZH+NWujWoAjgV4rTMGhO6Iek24x7kjvvscriopg7xM=", "source"=>#<File:C:\Users\admin\AppData\Local\Temp\RackMultipart.1288.39556>, "commit"=>"Submit"}
+
+08.06.2010 0:58:05 sun.reflect.GeneratedMethodAccessor1 invoke
+INFO: Rendering ido_web/Output
+
+08.06.2010 0:58:05 sun.reflect.GeneratedMethodAccessor1 invoke
+INFO: Completed in 52ms (View: 20 | 200 OK [http://localhost/ido_web/Output]
+
+08.06.2010 0:58:10 sun.reflect.GeneratedMethodAccessor1 invoke
+INFO: 
+
+Processing IdoWebController#Output (for 127.0.0.1 at 2010-06-08 00:58:10) [GET]
+
+08.06.2010 0:58:10 sun.reflect.GeneratedMethodAccessor1 invoke
+INFO: Rendering ido_web/Output
+
+08.06.2010 0:58:10 sun.reflect.GeneratedMethodAccessor1 invoke
+INFO: Completed in 12ms (View: 10 | 200 OK [http://localhost/ido_web/Output]
+
+08.06.2010 0:58:52 sun.reflect.GeneratedMethodAccessor1 invoke
+INFO: 
+
+Processing IdoWebController#Input (for 127.0.0.1 at 2010-06-08 00:58:52) [GET]
+
+08.06.2010 0:58:52 sun.reflect.GeneratedMethodAccessor1 invoke
+INFO: Rendering ido_web/Input
+
+08.06.2010 0:58:52 sun.reflect.GeneratedMethodAccessor1 invoke
+INFO: Completed in 85ms (View: 74 | 200 OK [http://localhost/]
+
+08.06.2010 0:58:57 sun.reflect.GeneratedMethodAccessor1 invoke
+INFO: 
+
+Processing IdoWebController#Output (for 127.0.0.1 at 2010-06-08 00:58:57) [POST]
+
+08.06.2010 0:58:57 sun.reflect.GeneratedMethodAccessor1 invoke
+INFO:   Parameters: {"authenticity_token"=>"gP2NQJfAIznmmZCD2ZR0MqCcd9m7fE85nOkpMJ0eYkc=", "source"=>#<File:C:\Users\admin\AppData\Local\Temp\RackMultipart.1288.39557>, "commit"=>"Submit"}
+
+08.06.2010 0:58:57 sun.reflect.GeneratedMethodAccessor1 invoke
+INFO: Rendering ido_web/Output
+
+08.06.2010 0:58:57 sun.reflect.GeneratedMethodAccessor1 invoke
+INFO: Completed in 30ms (View: 15 | 200 OK [http://localhost/ido_web/Output]
+
+08.06.2010 0:59:14 sun.reflect.GeneratedMethodAccessor1 invoke
+INFO: 
+
+Processing IdoWebController#Output (for 127.0.0.1 at 2010-06-08 00:59:14) [POST]
+
+08.06.2010 0:59:14 sun.reflect.GeneratedMethodAccessor1 invoke
+INFO:   Parameters: {"authenticity_token"=>"gP2NQJfAIznmmZCD2ZR0MqCcd9m7fE85nOkpMJ0eYkc=", "source"=>#<File:C:\Users\admin\AppData\Local\Temp\RackMultipart.1288.39558>, "commit"=>"Submit"}
+
+08.06.2010 0:59:14 sun.reflect.GeneratedMethodAccessor1 invoke
+INFO: Rendering ido_web/Output
+
+08.06.2010 0:59:14 sun.reflect.GeneratedMethodAccessor1 invoke
+INFO: Completed in 28ms (View: 18 | 200 OK [http://localhost/ido_web/Output]
+
+08.06.2010 1:00:34 sun.reflect.GeneratedMethodAccessor1 invoke
+INFO: 
+
+Processing IdoWebController#Input (for 127.0.0.1 at 2010-06-08 01:00:34) [GET]
+
+08.06.2010 1:00:34 sun.reflect.GeneratedMethodAccessor1 invoke
+INFO: Rendering ido_web/Input
+
+08.06.2010 1:00:34 sun.reflect.GeneratedMethodAccessor1 invoke
+INFO: Completed in 20ms (View: 16 | 200 OK [http://localhost/]
+
+08.06.2010 1:00:36 sun.reflect.GeneratedMethodAccessor1 invoke
+INFO: 
+
+Processing IdoWebController#Input (for 127.0.0.1 at 2010-06-08 01:00:36) [GET]
+
+08.06.2010 1:00:36 sun.reflect.GeneratedMethodAccessor1 invoke
+INFO: Rendering ido_web/Input
+
+08.06.2010 1:00:36 sun.reflect.GeneratedMethodAccessor1 invoke
+INFO: Completed in 29ms (View: 25 | 200 OK [http://localhost/]
+
+08.06.2010 1:00:40 sun.reflect.GeneratedMethodAccessor1 invoke
+INFO: 
+
+Processing IdoWebController#Output (for 127.0.0.1 at 2010-06-08 01:00:40) [POST]
+
+08.06.2010 1:00:40 sun.reflect.GeneratedMethodAccessor1 invoke
+INFO:   Parameters: {"authenticity_token"=>"gP2NQJfAIznmmZCD2ZR0MqCcd9m7fE85nOkpMJ0eYkc=", "source"=>#<File:C:\Users\admin\AppData\Local\Temp\RackMultipart.1288.39559>, "commit"=>"Submit"}
+
+08.06.2010 1:00:40 sun.reflect.GeneratedMethodAccessor1 invoke
+INFO: Rendering ido_web/Output
+
+08.06.2010 1:00:40 sun.reflect.GeneratedMethodAccessor1 invoke
+INFO: Completed in 22ms (View: 17 | 200 OK [http://localhost/ido_web/Output]
+
+08.06.2010 1:01:27 sun.reflect.GeneratedMethodAccessor1 invoke
+INFO: 
+
+Processing IdoWebController#Output (for 127.0.0.1 at 2010-06-08 01:01:27) [POST]
+
+08.06.2010 1:01:27 sun.reflect.GeneratedMethodAccessor1 invoke
+INFO:   Parameters: {"authenticity_token"=>"gP2NQJfAIznmmZCD2ZR0MqCcd9m7fE85nOkpMJ0eYkc=", "source"=>#<File:C:\Users\admin\AppData\Local\Temp\RackMultipart.1288.39560>, "commit"=>"Submit"}
+
+08.06.2010 1:01:27 sun.reflect.GeneratedMethodAccessor1 invoke
+INFO: Rendering ido_web/Output
+
+08.06.2010 1:01:27 sun.reflect.GeneratedMethodAccessor1 invoke
+INFO: Completed in 17ms (View: 11 | 200 OK [http://localhost/ido_web/Output]
+
+08.06.2010 1:02:37 sun.reflect.GeneratedMethodAccessor1 invoke
+INFO: 
+
+Processing IdoWebController#Output (for 127.0.0.1 at 2010-06-08 01:02:37) [POST]
+
+08.06.2010 1:02:37 sun.reflect.GeneratedMethodAccessor1 invoke
+INFO:   Parameters: {"authenticity_token"=>"gP2NQJfAIznmmZCD2ZR0MqCcd9m7fE85nOkpMJ0eYkc=", "source"=>#<File:C:\Users\admin\AppData\Local\Temp\RackMultipart.1288.39561>, "commit"=>"Submit"}
+
+08.06.2010 1:02:37 sun.reflect.GeneratedMethodAccessor1 invoke
+INFO: Rendering ido_web/Output
+
+08.06.2010 1:02:37 sun.reflect.GeneratedMethodAccessor1 invoke
+INFO: Completed in 24ms (View: 9 | 200 OK [http://localhost/ido_web/Output]
+
+08.06.2010 1:03:05 sun.reflect.GeneratedMethodAccessor1 invoke
+INFO: 
+
+Processing IdoWebController#Output (for 127.0.0.1 at 2010-06-08 01:03:05) [POST]
+
+08.06.2010 1:03:05 sun.reflect.GeneratedMethodAccessor1 invoke
+INFO:   Parameters: {"authenticity_token"=>"gP2NQJfAIznmmZCD2ZR0MqCcd9m7fE85nOkpMJ0eYkc=", "source"=>#<File:C:\Users\admin\AppData\Local\Temp\RackMultipart.1288.39562>, "commit"=>"Submit"}
+
+08.06.2010 1:03:05 sun.reflect.GeneratedMethodAccessor1 invoke
+INFO: Rendering ido_web/Output
+
+08.06.2010 1:03:05 sun.reflect.GeneratedMethodAccessor1 invoke
+INFO: Completed in 13ms (View: 6 | 200 OK [http://localhost/ido_web/Output]
+
+08.06.2010 1:03:12 sun.reflect.GeneratedMethodAccessor1 invoke
+INFO: 
+
+Processing IdoWebController#Input (for 127.0.0.1 at 2010-06-08 01:03:12) [GET]
+
+08.06.2010 1:03:12 sun.reflect.GeneratedMethodAccessor1 invoke
+INFO: Rendering ido_web/Input
+
+08.06.2010 1:03:12 sun.reflect.GeneratedMethodAccessor1 invoke
+INFO: Completed in 49ms (View: 31 | 200 OK [http://localhost/]
+
+08.06.2010 1:03:17 sun.reflect.GeneratedMethodAccessor1 invoke
+INFO: 
+
+Processing IdoWebController#Output (for 127.0.0.1 at 2010-06-08 01:03:17) [POST]
+
+08.06.2010 1:03:17 sun.reflect.GeneratedMethodAccessor1 invoke
+INFO:   Parameters: {"authenticity_token"=>"gP2NQJfAIznmmZCD2ZR0MqCcd9m7fE85nOkpMJ0eYkc=", "source"=>#<File:C:\Users\admin\AppData\Local\Temp\RackMultipart.1288.39563>, "commit"=>"Submit"}
+
+08.06.2010 1:03:17 sun.reflect.GeneratedMethodAccessor1 invoke
+INFO: Rendering ido_web/Output
+
+08.06.2010 1:03:17 sun.reflect.GeneratedMethodAccessor1 invoke
+INFO: Completed in 14ms (View: 9 | 200 OK [http://localhost/ido_web/Output]
+
+08.06.2010 1:03:49 sun.reflect.GeneratedMethodAccessor1 invoke
+INFO: 
+
+Processing IdoWebController#Output (for 127.0.0.1 at 2010-06-08 01:03:49) [POST]
+
+08.06.2010 1:03:49 sun.reflect.GeneratedMethodAccessor1 invoke
+INFO:   Parameters: {"authenticity_token"=>"gP2NQJfAIznmmZCD2ZR0MqCcd9m7fE85nOkpMJ0eYkc=", "source"=>#<File:C:\Users\admin\AppData\Local\Temp\RackMultipart.1288.39564>, "commit"=>"Submit"}
+
+08.06.2010 1:03:49 sun.reflect.GeneratedMethodAccessor1 invoke
+INFO: Rendering ido_web/Output
+
+08.06.2010 1:03:49 sun.reflect.GeneratedMethodAccessor1 invoke
+INFO: Completed in 30ms (View: 25 | 200 OK [http://localhost/ido_web/Output]
+
+08.06.2010 1:04:00 sun.reflect.GeneratedMethodAccessor1 invoke
+INFO: 
+
+Processing IdoWebController#Output (for 127.0.0.1 at 2010-06-08 01:04:00) [POST]
+
+08.06.2010 1:04:00 sun.reflect.GeneratedMethodAccessor1 invoke
+INFO:   Parameters: {"authenticity_token"=>"gP2NQJfAIznmmZCD2ZR0MqCcd9m7fE85nOkpMJ0eYkc=", "source"=>#<File:C:\Users\admin\AppData\Local\Temp\RackMultipart.1288.39565>, "commit"=>"Submit"}
+
+08.06.2010 1:04:00 sun.reflect.GeneratedMethodAccessor1 invoke
+INFO: Rendering ido_web/Output
+
+08.06.2010 1:04:00 sun.reflect.GeneratedMethodAccessor1 invoke
+INFO: Completed in 16ms (View: 11 | 200 OK [http://localhost/ido_web/Output]
+
+08.06.2010 1:04:12 sun.reflect.GeneratedMethodAccessor1 invoke
+INFO: 
+
+Processing IdoWebController#Output (for 127.0.0.1 at 2010-06-08 01:04:12) [POST]
+
+08.06.2010 1:04:12 sun.reflect.GeneratedMethodAccessor1 invoke
+INFO:   Parameters: {"authenticity_token"=>"gP2NQJfAIznmmZCD2ZR0MqCcd9m7fE85nOkpMJ0eYkc=", "source"=>#<File:C:\Users\admin\AppData\Local\Temp\RackMultipart.1288.39566>, "commit"=>"Submit"}
+
+08.06.2010 1:04:12 sun.reflect.GeneratedMethodAccessor1 invoke
+INFO: Rendering ido_web/Output
+
+08.06.2010 1:04:12 sun.reflect.GeneratedMethodAccessor1 invoke
+INFO: Completed in 11ms (View: 6 | 200 OK [http://localhost/ido_web/Output]
+
+08.06.2010 1:07:36 sun.reflect.GeneratedMethodAccessor1 invoke
+INFO: 
+
+Processing IdoWebController#Input (for 127.0.0.1 at 2010-06-08 01:07:36) [GET]
+
+08.06.2010 1:07:36 sun.reflect.GeneratedMethodAccessor1 invoke
+INFO: Rendering ido_web/Input
+
+08.06.2010 1:07:36 sun.reflect.GeneratedMethodAccessor1 invoke
+INFO: Completed in 47ms (View: 35 | 200 OK [http://localhost/]
+
+08.06.2010 1:07:41 sun.reflect.GeneratedMethodAccessor1 invoke
+INFO: 
+
+Processing IdoWebController#Output (for 127.0.0.1 at 2010-06-08 01:07:41) [POST]
+
+08.06.2010 1:07:41 sun.reflect.GeneratedMethodAccessor1 invoke
+INFO:   Parameters: {"authenticity_token"=>"gP2NQJfAIznmmZCD2ZR0MqCcd9m7fE85nOkpMJ0eYkc=", "source"=>#<File:C:\Users\admin\AppData\Local\Temp\RackMultipart.1288.39567>, "commit"=>"Submit"}
+
+08.06.2010 1:07:41 sun.reflect.GeneratedMethodAccessor1 invoke
+INFO: Rendering ido_web/Output
+
+08.06.2010 1:07:41 sun.reflect.GeneratedMethodAccessor1 invoke
+INFO: Completed in 18ms (View: 10 | 200 OK [http://localhost/ido_web/Output]
+
+08.06.2010 1:10:11 sun.reflect.GeneratedMethodAccessor1 invoke
+INFO: 
+
+Processing IdoWebController#Input (for 127.0.0.1 at 2010-06-08 01:10:11) [GET]
+
+08.06.2010 1:10:11 sun.reflect.GeneratedMethodAccessor1 invoke
+INFO: Rendering ido_web/Input
+
+08.06.2010 1:10:11 sun.reflect.GeneratedMethodAccessor1 invoke
+INFO: Completed in 19ms (View: 12 | 200 OK [http://localhost/]
+
+08.06.2010 1:10:16 sun.reflect.GeneratedMethodAccessor1 invoke
+INFO: 
+
+Processing IdoWebController#Output (for 127.0.0.1 at 2010-06-08 01:10:16) [POST]
+
+08.06.2010 1:10:16 sun.reflect.GeneratedMethodAccessor1 invoke
+INFO:   Parameters: {"authenticity_token"=>"gP2NQJfAIznmmZCD2ZR0MqCcd9m7fE85nOkpMJ0eYkc=", "source"=>#<File:C:\Users\admin\AppData\Local\Temp\RackMultipart.1288.39568>, "commit"=>"Submit"}
+
+08.06.2010 1:10:16 sun.reflect.GeneratedMethodAccessor1 invoke
+INFO: 
+TypeError (can't convert Tempfile into String):
+  app/controllers/ido_web_controller.rb:72:in `initialize'
+  app/controllers/ido_web_controller.rb:130:in `new'
+  app/controllers/ido_web_controller.rb:130:in `Output'
+  :1
+
+
+08.06.2010 1:10:16 sun.reflect.GeneratedMethodAccessor1 invoke
+INFO: Rendered rescues/_trace (142.0ms)
+
+08.06.2010 1:10:16 sun.reflect.GeneratedMethodAccessor1 invoke
+INFO: Rendered rescues/_request_and_response (41.0ms)
+
+08.06.2010 1:10:16 sun.reflect.GeneratedMethodAccessor1 invoke
+INFO: Rendering rescues/layout (internal_server_error)
+
+08.06.2010 1:11:54 sun.reflect.GeneratedMethodAccessor1 invoke
+INFO: 
+
+Processing IdoWebController#Output (for 127.0.0.1 at 2010-06-08 01:11:54) [POST]
+
+08.06.2010 1:11:54 sun.reflect.GeneratedMethodAccessor1 invoke
+INFO:   Parameters: {"authenticity_token"=>"gP2NQJfAIznmmZCD2ZR0MqCcd9m7fE85nOkpMJ0eYkc=", "source"=>#<File:C:\Users\admin\AppData\Local\Temp\RackMultipart.1288.39569>, "commit"=>"Submit"}
+
+08.06.2010 1:11:55 sun.reflect.GeneratedMethodAccessor1 invoke
+INFO: Rendering ido_web/Output
+
+08.06.2010 1:11:55 sun.reflect.GeneratedMethodAccessor1 invoke
+INFO: Completed in 379ms (View: 7 | 200 OK [http://localhost/ido_web/Output]
+
+08.06.2010 1:12:58 sun.reflect.GeneratedMethodAccessor1 invoke
+INFO: 
+
+Processing IdoWebController#Output (for 127.0.0.1 at 2010-06-08 01:12:58) [POST]
+
+08.06.2010 1:12:58 sun.reflect.GeneratedMethodAccessor1 invoke
+INFO:   Parameters: {"authenticity_token"=>"gP2NQJfAIznmmZCD2ZR0MqCcd9m7fE85nOkpMJ0eYkc=", "source"=>#<File:C:\Users\admin\AppData\Local\Temp\RackMultipart.1288.39570>, "commit"=>"Submit"}
+
+08.06.2010 1:12:58 sun.reflect.GeneratedMethodAccessor1 invoke
+INFO: Rendering ido_web/Output
+
+08.06.2010 1:12:58 sun.reflect.GeneratedMethodAccessor1 invoke
+INFO: 
+ActionView::TemplateError (undefined method `read' for #<String:0x1c0b204>) on line #1 of app/views/ido_web/Output.html.erb:
+1: <%= @a.read %>
+
+    app/views/ido_web/Output.html.erb:1
+    :1
+
+
+08.06.2010 1:12:59 sun.reflect.GeneratedMethodAccessor1 invoke
+INFO: Rendered rescues/_trace (62.0ms)
+
+08.06.2010 1:12:59 sun.reflect.GeneratedMethodAccessor1 invoke
+INFO: Rendered rescues/_request_and_response (1.0ms)
+
+08.06.2010 1:12:59 sun.reflect.GeneratedMethodAccessor1 invoke
+INFO: Rendering rescues/layout (internal_server_error)
+
+08.06.2010 1:13:21 sun.reflect.GeneratedMethodAccessor1 invoke
+INFO: 
+
+Processing IdoWebController#Output (for 127.0.0.1 at 2010-06-08 01:13:21) [POST]
+
+08.06.2010 1:13:21 sun.reflect.GeneratedMethodAccessor1 invoke
+INFO:   Parameters: {"authenticity_token"=>"gP2NQJfAIznmmZCD2ZR0MqCcd9m7fE85nOkpMJ0eYkc=", "source"=>#<File:C:\Users\admin\AppData\Local\Temp\RackMultipart.1288.39571>, "commit"=>"Submit"}
+
+08.06.2010 1:13:21 sun.reflect.GeneratedMethodAccessor1 invoke
+INFO: Rendering ido_web/Output
+
+08.06.2010 1:13:21 sun.reflect.GeneratedMethodAccessor1 invoke
+INFO: Completed in 27ms (View: 18 | 200 OK [http://localhost/ido_web/Output]
+
+08.06.2010 1:13:35 sun.reflect.GeneratedMethodAccessor1 invoke
+INFO: 
+
+Processing IdoWebController#Input (for 127.0.0.1 at 2010-06-08 01:13:35) [GET]
+
+08.06.2010 1:13:35 sun.reflect.GeneratedMethodAccessor1 invoke
+INFO: Rendering ido_web/Input
+
+08.06.2010 1:13:35 sun.reflect.GeneratedMethodAccessor1 invoke
+INFO: Completed in 30ms (View: 27 | 200 OK [http://localhost/]
+
+08.06.2010 1:13:42 sun.reflect.GeneratedMethodAccessor1 invoke
+INFO: 
+
+Processing IdoWebController#Output (for 127.0.0.1 at 2010-06-08 01:13:42) [POST]
+
+08.06.2010 1:13:42 sun.reflect.GeneratedMethodAccessor1 invoke
+INFO:   Parameters: {"authenticity_token"=>"gP2NQJfAIznmmZCD2ZR0MqCcd9m7fE85nOkpMJ0eYkc=", "source"=>#<File:C:\Users\admin\AppData\Local\Temp\RackMultipart.1288.39572>, "commit"=>"Submit"}
+
+08.06.2010 1:13:42 sun.reflect.GeneratedMethodAccessor1 invoke
+INFO: Rendering ido_web/Output
+
+08.06.2010 1:13:42 sun.reflect.GeneratedMethodAccessor1 invoke
+INFO: Completed in 115ms (View: 5 | 200 OK [http://localhost/ido_web/Output]
+
+
+
+Processing IdoWebController#Input (for 0:0:0:0:0:0:0:1%0 at 2010-06-08 10:10:08) [GET]
+Rendering ido_web/Input
+Completed in 275ms (View: 268 | 200 OK [http://localhost/]
+
+
+Processing IdoWebController#Output (for 0:0:0:0:0:0:0:1%0 at 2010-06-08 10:10:41) [POST]
+  Parameters: {"authenticity_token"=>"VlIS2vm08ZNb+5+g+BRGQbpVax+K/abWzk9UMHnBT+I=", "source"=>#<File:/var/folders/71/71Dm-ENhEl8ppH0+46dAJ++++TI/-Tmp-/RackMultipart.537.26551>, "commit"=>"Submit"}
+Rendering ido_web/Output
+Completed in 219ms (View: 18 | 200 OK [http://localhost/ido_web/Output]
