@@ -3,14 +3,6 @@
 
 require 'iconv'
 
-filename = 'ghdop'
-
-input = filename + '.txt'
-output = filename + '.html'
-
-#input = 'prombez.txt'
-#output = 'prombez.html'
-
 class Question
   def initialize (text)
 
@@ -20,7 +12,6 @@ class Question
 
     @number = $1.to_i
     @title = $2
-    @answersCount = $3.to_i
     answers = $4
 
     answer_start = 0
@@ -29,14 +20,16 @@ class Question
     while true
       answer_start = answers.index("Ответ", answer_start)
       answer_end = answers.index("Ответ", answer_start+1)
+      
+      answer_end-=2 if answer_end != nil
 
       answer_end = -1 if answer_end == nil
 
       answer = answers [answer_start..answer_end]
 
       ans_lines = answer.split("\n")
-      ans_title = ans_lines[1..-3]
-      ans_correct = ans_lines[-2].to_i == 1
+      ans_title = ans_lines[1..-2]
+      ans_correct = ans_lines[-1].to_i == 1
 
       @answers.insert(-1, ans_title.to_s);
       @answersCorrect.insert(-1, ans_correct);
@@ -52,13 +45,16 @@ class Question
     result = ""
     result += "<h3>" + "<u>Вопрос №%d</u>&nbsp;&nbsp;&nbsp;" % @number + @title + "</h3>\n"
     result += "<ul>\n"
-    for i in (0..@answersCount-1)
+    i = 0;
+    while true do
       correct = @answersCorrect[i]
+      break if (correct == nil)
       if correct
         result += "<li><b><u>" + @answers[i] + "</u></b></li>\n"
       else
         result += "<li>" + @answers[i] + "</li>\n"
       end
+      i+=1
     end
     result += "</ul>\n"
     return result
@@ -71,7 +67,8 @@ class Storage
   def initialize (file)
     contents = file.read
     contents = Iconv.iconv('utf8', 'cp1251', contents).to_s
-
+    contents = contents.gsub (/\n\s*\n/m, "\n")
+    contents = contents.gsub (/\n\s*\n/m, "\n")
     question_start = 0
 
     @questions = Array.new
